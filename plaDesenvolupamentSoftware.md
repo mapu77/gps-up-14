@@ -21,6 +21,6 @@
 
 ## 4. PLA DE FASES ##
 
-> - Taula amb l'estat dels casos d'ús a cada fase
+> - a) Taula amb l'estat dels casos d'ús a cada fase
 
-> - Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
+> - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
