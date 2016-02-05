@@ -1,9 +1,9 @@
 > Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
-# SISTEMA ACME - VISIÓ #
+# SISTEMA NOM ESCOLLIT - VISIÓ #
 
 
-> El propòsit del document de visió és recollir, analitzar i definir necesitats i capacitats d'alt nivell del sistema objecte del projecte
+> El propòsit del document de visió és recollir, analitzar i definir necesitats i capacitats d'alt nivell del sistema objecte del projecte. Escolliu un nom per al sistema.
 
 
 ## 1. INTRODUCCIÓ ##
@@ -27,9 +27,9 @@
 > Aquesta secció descriu en alt nivell les capacitats del producte, supòsits de funcionament, dependències sobre altres sistemes, ...
 
 ### 4.1. Perspectiva del producte ###
-> Descriviu de quin tipus de producte estem parlant: un sistema d'informació, una app per a mòvil, un servei, un subsistema integrat en un sistema més gran, ...
+> Descriviu de quin tipus de producte estem parlant: un sistema d'informació, una app per a mòbil, un servei, un subsistema integrat en un sistema més gran, ...
  
-> Resumiu la informació en un dibuix:
+> Resumiu la informació en un dibuix que esquematitzi l'arquitectura del sistema:
 
 ![](http://www.dittoditto.com/img/screenshots/soft-arch.gif)
 
@@ -41,14 +41,14 @@
 3. ...
  
 ### 4.3. Supòsits de funcionament ###
-> Enumereu els supòsits per a que el producti satisfagui la seva funcionalitat:
+> Enumereu els supòsits per a què el producti satisfaci la seva funcionalitat:
 
 1. *Supòsit 1*. Descripció 
 2. *Supòsit 2*. Descripció 
 3. ...
  
 ### 4.4. Dependències sobre altres sistemes ###
-> Enumereu les dependències del producte sobre altres sistemes existents:
+> Enumereu les dependències del producte sobre altres sistemes software existents:
 
 1. *Dependència 1*. Descripció 
 2. *Dependència 2*. Descripció 
@@ -63,7 +63,7 @@
 
 ## 5. RECURSOS ##
 
-> Si heu usat webs, documents, articles, etc., per basar el vostre document, enumereu aquí les referències tal i com es mostra aball. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
+> Si heu usat webs, documents, articles, etc., per basar el vostre document, enumereu aquí les referències tal i com es mostra avall. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
 
 [1] recurs 1
 
