@@ -1,8 +1,8 @@
 > Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
-# SISTEMA ACME - CAS DE NEGOCI #
+# SISTEMA NOM - CAS DE NEGOCI #
 
-> El propòsit del document de cas de negoci proveir la informació necessària des d'un punt de vista de negoci per decidir si val la pena tirar endavant el projecte
+> El propòsit del document de cas de negoci és proveir la informació necessària des d'un punt de vista de negoci per decidir si val la pena tirar endavant el projecte
 
 
 ## 1. DESCRIPCIÓ DEL PRODUCTE ##
@@ -32,7 +32,7 @@
 ## 5. PREVISIÓ FINANCERA ##
 
 > Si el producte és per comercialitzar, el cas de negoci ha d'incloure un conjunt de supòsits sobre el projecte (p.e., nombre potencial de compradors/clients) i una previsió de guanys (a partir de quin moment començarem a recuperar la inversió, i quin serà el guany anual a partir d'aquell moment). Aquesta previsió necessitarà saber el cost del projecte, per la qual cosa aquest apartat no es pot completar fins tenir aquesta dada. A més, és la típica secció que s'anirà actualitzant contínuament (i.e., després de cada iteració UP)
-
+> Si el producte no es vol comercialitzar (p.e. el desenvolupa una administració pública), cal avaluar en la mesura que sigui possible els beneficis socials, mediambientals, benefics econòmics indirectes o d'altres tipus que es preveuen obtenir i que justifiquin la necessitat de tirar endavant el projecte.
 ## 6. RECURSOS ##
 
 > Si heu usat webs, documents, articles, etc., per basar el vostre estudi, enumereu aquí les referències tal i com es mostra aball. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
