@@ -1,9 +1,9 @@
 > Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
-# SISTEMA ACME - RISCS #
+# SISTEMA NOM - RISCS #
 
 
-> El propòsit del document de riscs és enumerar els riscs més importants, juntament amb les estratègies de mitigació i plans de contingència. Identifiqueu entre 6 i 8
+> El propòsit del document de riscs és enumerar els riscs més importants, juntament amb les estratègies de mitigació i plans de contingència. Identifiqueu-ne entre 6 i 8
 
 > Els tipus més habituals són: riscs de negoci, riscs de projecte, riscs tecnològics
 
@@ -28,7 +28,7 @@
  
 ### Estratègies de mitigació ###
 
-> Mesures per reduir la probabilitat d'ocurrença del risc
+> Mesures per reduir la probabilitat d'ocurrència del risc
  
 ### Plans de mitigació ###
 
