@@ -63,7 +63,7 @@
 
 ## 5. RECURSOS ##
 
-> Si heu usat webs, documents, articles, etc., per basar el vostre document, enumereu aquí les referències tal i com es mostra avall. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
+> Si heu usat webs, documents, articles, etc., per basar el vostre document, enumereu aquí les referències tal i com es mostra aquí sota. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
 
 [1] recurs 1
 
