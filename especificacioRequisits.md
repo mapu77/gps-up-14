@@ -16,7 +16,7 @@
 
 > Diagrama UML clàssic. És important mantenir la consistència amb altres documents, per exemple els actors del diagrama han de ser un subconjunt de les parts interessades establertes al document de visió (i més coses...)
 
-> Si creieu que us ajuda a la llegibilitat, podeu agrupar casos d'ús similars en paquets
+> Si creieu que us ajuda a la legibilitat, podeu agrupar casos d'ús similars en paquets
 
 ![](http://agilemodeling.com/images/style/useCaseOnlineShopping.gif)
 
