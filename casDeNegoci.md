@@ -36,7 +36,7 @@
 > Si el producte no es vol comercialitzar (p.e. el desenvolupa una administració pública), cal avaluar en la mesura que sigui possible els beneficis socials, mediambientals, benefics econòmics indirectes o d'altres tipus que es preveuen obtenir i que justifiquin la necessitat de tirar endavant el projecte.
 ## 6. RECURSOS ##
 
-> Si heu usat webs, documents, articles, etc., per basar el vostre estudi, enumereu aquí les referències tal i com es mostra avall. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
+> Si heu usat webs, documents, articles, etc., per basar el vostre estudi, enumereu aquí les referències tal i com es mostra aquí sota. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
 
 [1] recurs 1
 
