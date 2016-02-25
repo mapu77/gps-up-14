@@ -9,6 +9,7 @@
 ## 1. INTRODUCCIÓ ##
 
 > Breu motivació i presentació del sistema. No hauria d'ocupar més de 250 paraules
+Hola
 
 ## 2. EL PROBLEMA ##
 
