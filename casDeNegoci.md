@@ -1,6 +1,6 @@
 > Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
-# SISTEMA NOM - CAS DE NEGOCI #
+# BCN - Commerce - CAS DE NEGOCI #
 
 > El propòsit del document de cas de negoci és proveir la informació necessària des d'un punt de vista de negoci per decidir si val la pena tirar endavant el projecte
 
@@ -12,6 +12,7 @@
 ## 2. CONTEXT DE NEGOCI ##
 
 > Cal descriure: quin és el sector de negoci (telecomunicacions, banc, salut, ...); és un producte de consum intern, és per vendre a un client, és per fer-ne llicències, és per vendre-hi serveis, ...? Quina vida prevista té? etc.
+Aquest sistema es centra en el sector del comerç, dels serveis, concretament al sector terciari. (omplir)
 
 ## 3. OBJECTIUS DEL PRODUCTE ##
 

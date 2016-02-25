@@ -16,6 +16,6 @@
 
 Per cada terme:
 
-- Terme 1: definició
+- Vida de barri: Entenem per vida de barri tot allò referent a allò que manté el barri actiu, comerços, festes, esdeveniments...
 - Terme 2: definició
 - ...
