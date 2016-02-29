@@ -10,8 +10,7 @@
 
 > Breu motivació i presentació del sistema. No hauria d'ocupar més de 250 paraules 
  
-El sistema a construir vol apropar el comerç petit i de proximitat als ciutadans i a les noves tecnologies.  
-Donar-los un espai de promoció i de publicitat per tal d'incentivar la seva economia i donar-se a conèixer al públic.  
+El sistema a construir vol apropar el comerç petit i de proximitat als ciutadans i a les noves tecnologies. Donar-los un espai de promoció i de publicitat per tal d'incentivar la seva economia i donar-se a conèixer al públic.  
 De cara al usuari, informar-lo d'ofertes, promocions i notícies sobre els comerços a la ciutat de Barcelona.
 
 
