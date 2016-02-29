@@ -8,35 +8,36 @@
 
 ## 1. INTRODUCCIÓ ##
 
-> Breu motivació i presentació del sistema. No hauria d'ocupar més de 250 paraules
-El sistema a construir vol aprorar el comerç petit i de proximitat als ciutadans i a les noves tecnologies. Donar-los un espai de promoció i de publicitat per tal d'incentivar la seva economia i donar-se a conèixer al públic.
+> Breu motivació i presentació del sistema. No hauria d'ocupar més de 250 paraules  
+El sistema a construir vol apropar el comerç petit i de proximitat als ciutadans i a les noves tecnologies.  
+Donar-los un espai de promoció i de publicitat per tal d'incentivar la seva economia i donar-se a conèixer al públic.  
 De cara al usuari, informar-lo d'ofertes, promocions i notícies sobre els comerços a la ciutat de Barcelona.
 
 
 ## 2. EL PROBLEMA ##
 
-> Descrivim el problema que volem resoldre amb èmfasi en el seu impacte (sobre persones, la societat, l'economia, ...)
-Donades les dificultats que els petits negocis presenten per donar-se a conèixer a causa de la immensa captació de clients de les grans superfícies, oferim un sistema que permetrà al comerç de proximitat superar aquestes barreres i promocionar-se.
-Els negocis rebràn un espai on publicar-se, on donar-se a conèixer i on gestionar la seva empresa
-Per als ciutadans de Barcelona els oferim un racó d'informació on poder consultar ofertes i notícies en lo referent a les botigues o comerços del barri, sent un punt de referència i d'informació.
-En alguns districtes de Barcelona la vida de barri està en desús i aquest sistema pretèn incrementar-la de nou i fer florir la activitat econòmica tot donant una imatge de ciutat viva.
+> Descrivim el problema que volem resoldre amb èmfasi en el seu impacte (sobre persones, la societat, l'economia, ...)  
+Donades les dificultats que els petits negocis presenten per donar-se a conèixer a causa de la immensa captació de clients de les grans superfícies, oferim un sistema que permetrà al comerç de proximitat superar aquestes barreres i promocionar-se.  
+Els negocis rebràn un espai on publicar-se, on donar-se a conèixer i on gestionar la seva empresa.  
+Per als ciutadans de Barcelona els oferim un racó d'informació on poder consultar ofertes i notícies en lo referent a les botigues o comerços del barri, sent un punt de referència i d'informació.  
+En alguns districtes de Barcelona la vida de barri està en desús i aquest sistema pretèn incrementar-la de nou i fer florir la activitat econòmica tot donant una imatge de ciutat viva.  
 
 ## 3. PARTS INTERESSADES ##
 
-> Descriviu totes les parts interessades en el sistema
+> Descriviu totes les parts interessades en el sistema  
 
-1. *Petits comerços*. 
-Representa una part del principals interessats en l'aplicació. 
-El seu paper en l'aplicació es publicitar-se en els seus espais i que proporcionar ofertes i promocions.
-2. *Ciutadà de Barcelona*. 
-Respresenta l'altre part dels principals interessats en l'aplicació.
-La responsabilitat d'aquesta part recau en l'ús d'aquest sistema per informar-se i fidelitzar-se amb els negocis més pròxims.
-3. *Ajuntament de Barcelona*. 
-La creació d'aquesta aplicació oferirà prestigi i bona imatge a l'ajuntament ja que és el propi departament de *smartcities* qui s'encarrega de la creació d'aquest sistema.
-Per un bon funcionament del sistema caldrà que l'Ajuntament de Barcelona doni suport als comerciants per usar aquest sistema, ja sigui suport orientatiu, suport legal, suport tecnològic...
+1. *Petits comerços*.  
+Representa una part del principals interessats en l'aplicació.  
+El seu paper en l'aplicació es publicitar-se en els seus espais i que proporcionar ofertes i promocions.  
+2. *Ciutadà de Barcelona*.  
+Respresenta l'altre part dels principals interessats en l'aplicació.  
+La responsabilitat d'aquesta part recau en l'ús d'aquest sistema per informar-se i fidelitzar-se amb els negocis més pròxims.  
+3. *Ajuntament de Barcelona*.  
+La creació d'aquesta aplicació oferirà prestigi i bona imatge a l'ajuntament ja que és el propi departament de *smartcities* qui s'encarrega de la creació d'aquest sistema.  
+Per un bon funcionament del sistema caldrà que l'Ajuntament de Barcelona doni suport als comerciants per usar aquest sistema, ja sigui suport orientatiu, suport legal, suport tecnològic...  
 4. *Competència*.
-Tots aquells que no formin part del sistema rebràn un impacte econòmic i social important - ja siguin grans superfícies com petits comerços que no vulguin participar en el projecte -.
-No requereix cap responsabilitat per part d'ells per a què el sistema funcioni.
+Tots aquells que no formin part del sistema poden rebre un impacte econòmic i social important - ja siguin grans superfícies com petits comerços que no vulguin participar en el projecte -.  
+No requereix cap responsabilitat per part d'ells per a què el sistema funcioni.  
 
 ## 4. EL PRODUCTE ##
 
@@ -83,7 +84,6 @@ No requereix cap responsabilitat per part d'ells per a què el sistema funcioni.
 3. *Portable*.
 4. *Mantenible*.
 5. *Segur*.
-6. *Accessible*.
 
 ## 5. RECURSOS ##
 
