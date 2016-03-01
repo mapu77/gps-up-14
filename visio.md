@@ -1,7 +1,7 @@
 ﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
 # BCN-Commerce - VISIÓ #
-
+ 
 
 > El propòsit del document de visió és recollir, analitzar i definir necesitats i capacitats d'alt nivell del sistema objecte del projecte. Escolliu un nom per al sistema.
 
@@ -82,25 +82,26 @@ de fidelitzar-se a canvi de descomptes).
 ### 4.3. Supòsits de funcionament ###
 > Enumereu els supòsits per a què el producti satisfaci la seva funcionalitat:
 
-1. *Connexió Internet*. Descripció 
-2. *Smartphone, tablet o ordinador*. Descripció 
-3. ...
+1. *Connexió Internet*. El nostre sistema guardarà la informació en una base de dades en un servidor i per tal de connectar-se a aquest, es necessitarà Internet.
+2. *Smartphone, tablet o ordinador*. El sistema consisteix en una app i una pàgina web, per tant només es necessita d'Smartphone, tablet o ordinador. 
  
 ### 4.4. Dependències sobre altres sistemes ###
 > Enumereu les dependències del producte sobre altres sistemes software existents:
 
-1. *Google Maps*. Descripció 
-2. *Servei de emmagatzematge web*. Descripció 
-3. ...
+1. *Google Maps*. Per tal de situar les botigues, ja sigui per barris o per districtes, utilitzarem el Software de Google Maps ja que ens sembla un suport molt complet i útil, a més
+que és conegut per la majoria dels usuaris.
+2. *Servei de emmagatzematge web*. El sistema guarda molta informació, per tant, necessitarà d'una Base de Dades i un domini d'Internet per tal de garantir la segureta i unicitat del 
+sistema.
   
 ### 4.5. Altres requisits ###
 > Aquí ens referim només als requisits no funcionals (usabilitat, eficiència, ...). Poseu els més importants amb una molt breu descripció:
 
-1. *Usabilitat*. Descripció 
-2. *Eficiència*. Descripció 
-3. *Portable*.
-4. *Mantenible*.
-5. *Segur*.
+1. *Usabilitat*. El sistema ha de ser molt usable, és a dir, fàcil i intuïtiu per a qualsevol persona que vulgui utilitzar aquest servei. Per tant, la part visual/gràfica ha de ser
+una eina d'ajuda i testejada per una variada mostra d'usuaris per tal que sigui satisfactòria pels ciutadans.
+2. *Eficiència*. En el nostre cas, no és el requisit més important, però la eficiència és un terme a tenir en compte sempre de cara a l'usuari.
+3. *Portable*. Òbviament, com el sistema està fet per diferents Sistemes Operatius i resolucions de pantalla, haurà de ser portable.
+4. *Mantenible*. Si volem que l'app sigui utilitzada durant mols anys, haurà de ser altament mantenible per facilitar el treball en un futur.
+5. *Segur*. Com hem dit és una aplicació personal, per tant, la segureta és un requisit a tenir en compte.
 
 ## 5. RECURSOS ##
 
