@@ -1,4 +1,4 @@
-> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
+﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
 
 # BCN-Commerce - VISIÓ #
 
@@ -46,9 +46,21 @@ No requereix cap responsabilitat per part d'ells per a què el sistema funcioni.
 ## 4. EL PRODUCTE ##
 
 > Aquesta secció descriu en alt nivell les capacitats del producte, supòsits de funcionament, dependències sobre altres sistemes, ...
+  
+El nostre producte consisteix en una aplicació mòbil, tant per a Android, IOS i Windows Phone. A més a més, comptarà amb el suport d'una pàgina web, útil sobretot pels comercials.
+Pel que fa a les capacitats del producte, volem apropar el comerç de proximitat al món tecnològic per tal d'impulsar aquest sector, així com satisfer als ciutadans. Centrant-nos
+en dues vessants; els comerciants i els ciutadans. Pel que fa als comerciants, serà una plataforma que els hi permetrà publicitar-se, anunciar ofertes i descomptes, donar opció als
+ciutadans de fidelitzar-se a la seva botiga a canvi d'uns certs avantatges pel client.
+Pel que fa al client, el sistema comptarà amb un bon sistema de filtratge, per tal d'escollir les botigues que més l'interessi, tant a nivell ubicacional com a nivell categorial.
+També tindràn l'opció de subscriure's a una botiga i rebre notificacions cada cop que hi hagi noves notícies, així com valorar aspectes de la botiga.
+Els supòsits de funcionament són un Smartphone amb un dels Sistemes Operatius esmentats abans i connexió a Internet. El sistema també tindrà dependències amb Google Maps i amb el 
+servei d'emmagatzematge web.
 
 ### 4.1. Perspectiva del producte ###
 > Descriviu de quin tipus de producte estem parlant: un sistema d'informació, una app per a mòbil, un servei, un subsistema integrat en un sistema més gran, ...
+
+El producte que volem dissenyar és un sistema d'inforació que consisteix en una app per a mòbil, que anuncia serveis dels petits comerços de Barcelona. A més a més, tindrà una
+pàgina web que fara més fàcil la publicitat dels comerciants, tot i que igualment contindrà totes les funcionalitats de l'app. 
  
 > Resumiu la informació en un dibuix que esquematitzi l'arquitectura del sistema:
 
@@ -57,14 +69,15 @@ No requereix cap responsabilitat per part d'ells per a què el sistema funcioni.
 ### 4.2. Descripció del producte ###
 > Enumereu molt breument les funcionalitats més importants (el detall estarà en altre document, el d'especificació):
 
-1. *Esplai publicitari*. Breu descripció 
-2. *Servei d'ofertes i promocions*. Breu descripció 
-3. *Servei de catàleg*.
-4. *Servei fidelització*.
-5. *Categories*.
-6. *Servei de valoració*.
-7. *Servei de subscripció*.
-8. *Servei de login*.
+1. *Esplai publicitari*. Tot petit comerç de Barcelona es podrà anunciar a l'app sempre que compleixi tots els requisits i condicions demanats per l'Ajuntament(ex. dónar opció als clients
+de fidelitzar-se a canvi de descomptes).
+2. *Servei d'ofertes i promocions*. Tots els comerços tindran l'opció d'anunciar les ofertes i promocions especials per tal d'informar als clients.
+3. *Servei de catàleg*. El comerciant podrà exposar el catàleg dels seus productes o serveis a l'app de tal forma que el client pugui veure de qué es tracta aquell comerç.
+4. *Servei fidelització*. Els usuaris podran fidelitzar-se a una botiga a canvi de rebre notificacions d'aquesta i així tenir algun descompte en alguna promoció.
+5. *Categories*. L'app comptarà amb un filtratge per categories (sabates, roba, electrònica...) per tal de facilitar la búsqueda als clients.
+6. *Servei de valoració*. Els clients podran valorar el tracte rebut o la qualitat dels productes.
+7. *Servei de subscripció*. Els clients podran subscriure's a una categoria per tal de rebre notificacions sobre allò.
+8. *Servei de login*. Per a poder fer servir l'app tant l'usuari com el comerciant tindran un servei de Log In, perquè l'app sigui individualitzada (subscripció, fidelització...).
  
 ### 4.3. Supòsits de funcionament ###
 > Enumereu els supòsits per a què el producti satisfaci la seva funcionalitat:
