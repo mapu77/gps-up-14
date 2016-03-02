@@ -16,7 +16,7 @@
 
 La interfície del aplicatiu web i mòvil és poc intuïtiva, difícil d'apendre
 a usar i poc satisfactori el seu ús.  
-Els usuaris - botiguerss i consumidors - deixaràn de fer servir el sistema.  
+Els usuaris - botiguers i consumidors - deixaràn de fer servir el sistema.  
 
 ### Probabilitat ###
 
@@ -110,8 +110,7 @@ estat consultades o enquestades.
 
 ### Descripció ###
 
-> A l'hora de fer l'aplicació, hi ha un risc molt gran que és el no recuperar la inversió que s'ha fet. Al cap i a la fi, és necessari
-obtenir uns beneficis que a llarg termini haurien de superar la prèvia inversió feta.
+> A l'hora de fer l'aplicació, hi ha un risc molt gran que és el no recuperar la inversió que s'ha fet. 
 
 
 ### Probabilitat ###
@@ -125,15 +124,14 @@ Versemblant.
 
 > Descripció de l'impacte del risc
 
-L'impacte d'aquest risc seria el perdre capital, ja que, s'ha fet una bona inversió i el no recuperar-ho pot portar al fracàs i posterior
-tancament de l'empresa.
+L'impacte d'aquest risc seria el perdre capital, ja que, s'ha fet una bona inversió i el no recuperar-ho pot portar al fracàs.
 
  
 ### Indicadors ###
 
 > Quins indicadors objectius permeten saber que el risc ha ocorregut o està a punt d'ocórrer (secció opcional, de vegades no està clar)
 
-Com a indicador objectiu podem fixar-nos amb altres empreses, si obtenen beneficis, o si han fracassat. És un bon indicador per saber si ha ocorregut.
+Com a indicador objectiu podem fixar-nos amb altres empreses o ajuntaments, si obtenen beneficis, o si han fracassat. És un bon indicador per saber si ha ocorregut.
 No té sentit parlar de si està a punt d'ocórrer, ja que, és una cosa a llarg termini.
 
  
@@ -141,8 +139,7 @@ No té sentit parlar de si està a punt d'ocórrer, ja que, és una cosa a llarg
 
 > Mesures per reduir la probabilitat d'ocurrència del risc
 
-Com a mesura, faria una aplicació que tingués el màxim abast possible cap als ciutadans, que tothom pogués fer servir l'aplicació fàcilment. També posaria
-publicitat, així recuperar una part dels diners mitjançant altres empreses o sistemes.
+Com a mesura, faria una aplicació que tingués el màxim abast possible cap als ciutadans, que tothom pogués fer servir l'aplicació fàcilment.
 
 
  
@@ -197,69 +194,84 @@ no tindrem problema de compatibilitat, ja que haurien de ser capaços de poder a
 
 Per a reduir l'impacte si es produeix el risc, ampliarem el rang de dispositius per fer-los compatibles amb el nostre sistema.
 
-## RISC 005. Nom del risc (no més de 4-5 paraules) ##
+## RISC 005. Excedir pressupost o temps.##
 
 ### Descripció ###
 
 > Descripció del risc
-
+Excedir el pressupost ja sigui per contractar personal insuficientment preparat i per tant més lent en fer les coses o per una planificació
+excessivament optimista.
 
 ### Probabilitat ###
 
 > Molt probable - probable - versemblant - poc probable - gens probable (no calen grans explicacions)
 
+Versemblant
 
 ### Impacte ###
 
 > Descripció de l'impacte del risc
 
+L'impacte obviament seria la data en que l'app estigui definitivament llesta per a estar en el mercat.
+A part d'un sobrecost (ja sigui per tenir al personal més temps contractat o per contractar més treballadors per tal de complir amb la data límit)
+ i possible mala imatge per a l'Ajuntament.
  
 ### Indicadors ###
 
 > Quins indicadors objectius permeten saber que el risc ha ocorregut o està a punt d'ocórrer (secció opcional, de vegades no està clar)
 
+Si conforme es va abançant en el projecte no es compleixen les dates fixades, molt probablement no s'arribarà a acabar a temps.
  
 ### Estratègies de mitigació ###
 
 > Mesures per reduir la probabilitat d'ocurrència del risc
 
+Fer una bona planificació del projecte sense ser molt voler ser molt optimista i contractar al personal amb bona experiència laboral.
  
 ### Plans de mitigació ###
 
 > Mesures per reduir l'impacte del risc quan es produeix
 
+Contractar més personal si el pressupost ho permet.
 
-## RISC 006. Nom del risc (no més de 4-5 paraules) ##
+## RISC 006. Canvi d'objectius ##
 
 ### Descripció ###
 
 > Descripció del risc
 
+Per qualsevol raó (per exemple un canvi en l'alcalde) es demana que l'app canvïi i ja no hagi de fer les mateixes funcionalitats.
 
 ### Probabilitat ###
 
 > Molt probable - probable - versemblant - poc probable - gens probable (no calen grans explicacions)
 
+Poc probable (si és una cosa concensuada entre varios partits polítcs de l'Ajuntament)
 
 ### Impacte ###
 
 > Descripció de l'impacte del risc
 
+Econòmicament seria bastant important, ja que gran part del treball fet fins al moment deixaria de ser útil ja que es canvien les funcionalitats del sistema.
+També canviaria la data final del projecte ja que s'hauria de fer més treball no previst.
  
 ### Indicadors ###
 
 > Quins indicadors objectius permeten saber que el risc ha ocorregut o està a punt d'ocórrer (secció opcional, de vegades no està clar)
 
+Si hi ha eleccions i canvia l'alcalde amb un programa electoral que vol canviar aquesta app.
  
 ### Estratègies de mitigació ###
 
 > Mesures per reduir la probabilitat d'ocurrència del risc
 
- 
+Concensar l'app amb tot l'Ajuntament i no només amb l'alcalde del moment.
+
 ### Plans de mitigació ###
 
 > Mesures per reduir l'impacte del risc quan es produeix
 
+Intentar negociar amb el nou alcalde i canviar la mínima part del projecte.
 
 ## RISC 007. Nom del risc (no més de 4-5 paraules) ##
 
