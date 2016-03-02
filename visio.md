@@ -46,8 +46,6 @@ servei d'emmagatzematge web.
 El producte que volem dissenyar és un sistema d'inforació que consisteix en una app per a mòbil, que anuncia serveis dels petits comerços de Barcelona. A més a més, tindrà una
 pàgina web que fara més fàcil la publicitat dels comerciants, tot i que igualment contindrà totes les funcionalitats de l'app. 
  
-> Resumiu la informació en un dibuix que esquematitzi l'arquitectura del sistema:
-
 ![Esquema de l'arquitectura del sistema](img/architecture.gif "Esquema de l'arquitectura del sistema)
 
 ### 4.2. Descripció del producte ###
@@ -76,7 +74,7 @@ sistema.
   
 ### 4.5. Altres requisits ###
 
-[1]
+[1]  
 1. *Usabilitat*. El sistema ha de ser molt usable, és a dir, fàcil i intuïtiu per a qualsevol persona que vulgui utilitzar aquest servei. Per tant, la part visual/gràfica ha de ser
 una eina d'ajuda i testejada per una variada mostra d'usuaris per tal que sigui satisfactòria pels ciutadans.
 2. *Eficiència*. En el nostre cas, no és el requisit més important, però la eficiència és un terme a tenir en compte sempre de cara a l'usuari.
