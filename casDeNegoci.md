@@ -24,16 +24,17 @@ El sector de negoci de la nostra aplicació es comercial, ya que dona suport als
 > Enumereu els objectius que pretèn cobrir el sistema
 
 1. Publicitar petits comerços: es mostraran el comerços de la ciutat, atraient als ciutadans a les tendes.
-2. 
-3. ...
+2. Augmentar el petit comerç: fer que els ciutadans comprin en els comerços de barri y no en gran superficies.
+3. Informar dels millors comerços: al haver un sistema de valoració, els millors comerços seran mes populars.
+4. Augmentar la comunicació entre botigas y ciutadans: al haver un sistema de fidelitzacio les botigues poden informar als seus millors clients.
  
 ## 4. RESTRICCIONS ##
 
 > Enumereu les restriccions sobre les quals es desenvoluparà el producte. Poden ser restriccions de domini (abast), restriccions del projecte mateix (e.g., sobre l'equip de treball), restriccions tecnològiques, estàndards als què cal adherir-se, etc.
 
 1. Tecnologia: No totes les persones utilitzan un smartphone.
-2. 
-3. ...
+2. Comerços: No tots el comerços voldran participar.
+3. Difucio: Encara que l'ajuntament ens ajudi a 
 
 ## 5. PREVISIÓ FINANCERA ##
 
