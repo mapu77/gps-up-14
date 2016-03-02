@@ -34,7 +34,8 @@ El sector de negoci de la nostra aplicació es comercial, ya que dona suport als
 
 1. Tecnologia: No totes les persones utilitzan un smartphone.
 2. Comerços: No tots el comerços voldran participar.
-3. Difucio: Encara que l'ajuntament ens ajudi a 
+3. Difucio: Encara que l'ajuntament ens ajudi a publicitar l'aplicacio, quedaran ciutadans que no s'asabantaran de que existeix aquesta aplicació.
+4. Servidors: Per crear la aplicació necesitarem servidor per el backend que s'han de pagar.
 
 ## 5. PREVISIÓ FINANCERA ##
 
