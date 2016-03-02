@@ -1,22 +1,11 @@
-﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
-
-# BCN-Commerce - VISIÓ #
+﻿# BCN-Commerce - VISIÓ #
  
-
-> El propòsit del document de visió és recollir, analitzar i definir necesitats i capacitats d'alt nivell del sistema objecte del projecte. Escolliu un nom per al sistema.
-
-
 ## 1. INTRODUCCIÓ ##
 
-> Breu motivació i presentació del sistema. No hauria d'ocupar més de 250 paraules 
- 
 El sistema a construir vol apropar el comerç petit i de proximitat als ciutadans i a les noves tecnologies. Donar-los un espai de promoció i de publicitat per tal d'incentivar la seva economia i donar-se a conèixer al públic.  
 De cara al usuari, informar-lo d'ofertes, promocions i notícies sobre els comerços a la ciutat de Barcelona.
 
-
 ## 2. EL PROBLEMA ##
-
-> Descrivim el problema que volem resoldre amb èmfasi en el seu impacte (sobre persones, la societat, l'economia, ...)  
 
 Donades les dificultats que els petits negocis presenten per donar-se a conèixer a causa de la immensa captació de clients de les grans superfícies, oferim un sistema que permetrà al comerç de proximitat superar aquestes barreres i promocionar-se.  
 Els negocis rebràn un espai on publicar-se, on donar-se a conèixer i on gestionar la seva empresa.  
@@ -24,8 +13,6 @@ Per als ciutadans de Barcelona els oferim un racó d'informació on poder consul
 En alguns districtes de Barcelona la vida de barri està en desús i aquest sistema pretèn incrementar-la de nou i fer florir la activitat econòmica tot donant una imatge de ciutat viva.  
 
 ## 3. PARTS INTERESSADES ##
-
-> Descriviu totes les parts interessades en el sistema  
 
 1. *Petits comerços*.  
 Representa una part del principals interessats en l'aplicació.  
@@ -44,9 +31,7 @@ Tots aquells que no formin part del sistema poden rebre un impacte econòmic i s
 No requereix cap responsabilitat per part d'ells per a què el sistema funcioni.  
 
 ## 4. EL PRODUCTE ##
-
-> Aquesta secció descriu en alt nivell les capacitats del producte, supòsits de funcionament, dependències sobre altres sistemes, ...
-  
+ 
 El nostre producte consisteix en una aplicació mòbil, tant per a Android, IOS i Windows Phone. A més a més, comptarà amb el suport d'una pàgina web, útil sobretot pels comercials.
 Pel que fa a les capacitats del producte, volem apropar el comerç de proximitat al món tecnològic per tal d'impulsar aquest sector, així com satisfer als ciutadans. Centrant-nos
 en dues vessants; els comerciants i els ciutadans. Pel que fa als comerciants, serà una plataforma que els hi permetrà publicitar-se, anunciar ofertes i descomptes, donar opció als
@@ -57,17 +42,15 @@ Els supòsits de funcionament són un Smartphone amb un dels Sistemes Operatius 
 servei d'emmagatzematge web.
 
 ### 4.1. Perspectiva del producte ###
-> Descriviu de quin tipus de producte estem parlant: un sistema d'informació, una app per a mòbil, un servei, un subsistema integrat en un sistema més gran, ...
 
 El producte que volem dissenyar és un sistema d'inforació que consisteix en una app per a mòbil, que anuncia serveis dels petits comerços de Barcelona. A més a més, tindrà una
 pàgina web que fara més fàcil la publicitat dels comerciants, tot i que igualment contindrà totes les funcionalitats de l'app. 
  
 > Resumiu la informació en un dibuix que esquematitzi l'arquitectura del sistema:
 
-![](http://www.dittoditto.com/img/screenshots/soft-arch.gif)
+![Esquema de l'arquitectura del sistema](img/architecture.gif "Esquema de l'arquitectura del sistema)
 
 ### 4.2. Descripció del producte ###
-> Enumereu molt breument les funcionalitats més importants (el detall estarà en altre document, el d'especificació):
 
 1. *Esplai publicitari*. Tot petit comerç de Barcelona es podrà anunciar a l'app sempre que compleixi tots els requisits i condicions demanats per l'Ajuntament(ex. dónar opció als clients
 de fidelitzar-se a canvi de descomptes).
@@ -80,13 +63,11 @@ de fidelitzar-se a canvi de descomptes).
 8. *Servei de login*. Per a poder fer servir l'app tant l'usuari com el comerciant tindran un servei de Log In, perquè l'app sigui individualitzada (subscripció, fidelització...).
  
 ### 4.3. Supòsits de funcionament ###
-> Enumereu els supòsits per a què el producti satisfaci la seva funcionalitat:
 
 1. *Connexió Internet*. El nostre sistema guardarà la informació en una base de dades en un servidor i per tal de connectar-se a aquest, es necessitarà Internet.
 2. *Smartphone, tablet o ordinador*. El sistema consisteix en una app i una pàgina web, per tant només es necessita d'Smartphone, tablet o ordinador. 
  
 ### 4.4. Dependències sobre altres sistemes ###
-> Enumereu les dependències del producte sobre altres sistemes software existents:
 
 1. *Google Maps*. Per tal de situar les botigues, ja sigui per barris o per districtes, utilitzarem el Software de Google Maps ja que ens sembla un suport molt complet i útil, a més
 que és conegut per la majoria dels usuaris.
@@ -94,8 +75,8 @@ que és conegut per la majoria dels usuaris.
 sistema.
   
 ### 4.5. Altres requisits ###
-> Aquí ens referim només als requisits no funcionals (usabilitat, eficiència, ...). Poseu els més importants amb una molt breu descripció:
 
+[1]
 1. *Usabilitat*. El sistema ha de ser molt usable, és a dir, fàcil i intuïtiu per a qualsevol persona que vulgui utilitzar aquest servei. Per tant, la part visual/gràfica ha de ser
 una eina d'ajuda i testejada per una variada mostra d'usuaris per tal que sigui satisfactòria pels ciutadans.
 2. *Eficiència*. En el nostre cas, no és el requisit més important, però la eficiència és un terme a tenir en compte sempre de cara a l'usuari.
@@ -105,10 +86,5 @@ una eina d'ajuda i testejada per una variada mostra d'usuaris per tal que sigui 
 
 ## 5. RECURSOS ##
 
-> Si heu usat webs, documents, articles, etc., per basar el vostre document, enumereu aquí les referències tal i com es mostra aquí sota. Des de la resta del document, cal referenciar l'estudi amb el seu ID entre claudàtors, "[*id*]"
-
 [1] https://es.wikipedia.org/wiki/Requisito_no_funcional
 
-[2] recurs 2
-
-[3] ...
