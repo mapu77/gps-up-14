@@ -188,80 +188,55 @@ Concensar l'app amb tot l'Ajuntament i no només amb l'alcalde del moment.
 
 Intentar negociar amb el nou alcalde i canviar la mínima part del projecte.
 
-## RISC 007. Intrusió de seguretat (no més de 4-5 paraules) ##
+## RISC 007. Intrusió de seguretat##
 
 ### Descripció ###
-
-> Descripció del risc
 
 Poden haver atacs a la nostre aplicació per fer caure la plataforma o per treure informació de caràcter personal.
 
 ### Probabilitat ###
 
-> Molt probable - probable - versemblant - poc probable - gens probable (no calen grans explicacions)
-
-probable
+Probable
 
 ### Impacte ###
 
-> Descripció de l'impacte del risc
-
- Si aconsegueixen saltar-se la seguretat, podem perdre la confiança del nostres clients y les parts interessades y que la nostra aplicació y reputació desapareixia.
-
+Si aconsegueixen saltar-se la seguretat, podem perdre la confiança del nostres clients y les parts interessades y que la nostra aplicació y reputació desapareixia.
 
 ### Indicadors ###
-
-> Quins indicadors objectius permeten saber que el risc ha ocorregut o està a punt d'ocórrer (secció opcional, de vegades no està clar)
 
 Obtenir informació d’advertència dels tallafocs y dels logs.
 
 ### Estratègies de mitigació ###
 
-> Mesures per reduir la probabilitat d'ocurrència del risc
-
- Utilitzar servidors segurs y fer servir els estàndards per tractar la informació de caràcter personal.
+Utilitzar servidors segurs y fer servir els estàndards per tractar la informació de caràcter personal.
 
 
 ### Plans de mitigació ###
 
-> Mesures per reduir l'impacte del risc quan es produeix
+Si s’utilitza un servidor extern, es pot obtenir una certificació de que les dades y la aplicació estaran segures y disponibles sempre.
 
- Si s’utilitza un servidor extern, es pot obtenir una certificació de que les dades y la aplicació estaran segures y disponibles sempre.
-
-
-## RISC 008. Bugs a la publicació de la app  (no més de 4-5 paraules) ##
+## RISC 008. Bugs a la publicació de la app ##
 
 ### Descripció ###
-
-> Descripció del risc
 
 La aplicació ja esta en el mercat y te bugs que fan que no funcioni correctament, com per exemple que es tanqui sola.
 
 ### Probabilitat ###
 
-> Molt probable - probable - versemblant - poc probable - gens probable (no calen grans explicacions)
-
-versemblant
+Versemblant
 
 ### Impacte ###
 
-> Descripció de l'impacte del risc
-
- Si la aplicació te bugs quan es fa la primera publicació, farà que la gent la valorí negativament en les plataformes comercials de apps, y faci comentaris negatius y provoqui que usuaris potencials decidint no començar la a utilitzar y acabem tenint pocs usuaris.
+Si la aplicació te bugs quan es fa la primera publicació, farà que la gent la valorí negativament en les plataformes comercials de apps, y faci comentaris negatius y provoqui que usuaris potencials decidint no començar la a utilitzar y acabem tenint pocs usuaris.
 
 ### Indicadors ###
 
-> Quins indicadors objectius permeten saber que el risc ha ocorregut o està a punt d'ocórrer (secció opcional, de vegades no està clar)
-
-	Comentaris o valoracions dels usuaris.
+Comentaris o valoracions dels usuaris.
  
 ### Estratègies de mitigació ###
-
-> Mesures per reduir la probabilitat d'ocurrència del risc
 	
-	Fer molt de testing de la nostra aplicacions en molts i diversos dispositius.
+Fer molt de testing de la nostra aplicacions en molts i diversos dispositius.
  
 ### Plans de mitigació ###
 
-> Mesures per reduir l'impacte del risc quan es produeix
 Tenir comunicació amb els usuaris per dir que s’està treballant en solucionar-ho i treure una versió estable ràpidament.
