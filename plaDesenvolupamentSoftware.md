@@ -22,5 +22,9 @@
 ## 4. PLA DE FASES ##
 
 > - a) Taula amb l'estat dels casos d'ús a cada fase
-
+|        | Inception | Elaboration | Construction | Transition |
+|--------|-----------|-------------|--------------|------------|
+| CU 001 |soc edu  hola           |             |              |            |
+| CU 002 |           |             |              |            |
+|        |           |             |              |            |
 > - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
