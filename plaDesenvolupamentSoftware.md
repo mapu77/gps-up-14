@@ -21,7 +21,7 @@
 
 ## 4. PLA DE FASES ##
 
-> - a) Taula amb l'estat dels casos d'ús a cada fase
+> - a) Taula amb l'estat dels casos d'ús a cada fase  
 |        | Inception | Elaboration | Construction | Transition |
 |--------|-----------|-------------|--------------|------------|
 | CU 001 |soc edu  hola           |             |              |            |
