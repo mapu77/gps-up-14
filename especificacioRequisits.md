@@ -32,6 +32,19 @@
 
 > Un per un, es descriuen els casos d'ús introduïts a la subsecció 1.1. Com ja s'ha dit adalt, els casos d'ús s'aniran defining paulatinament
 
+Alta negoci
+Baixa negoci
+Alta oferta
+Alta promocio
+Editar informacio botiga
+Editar cataleg
+Subscripció
+Veure productes
+Afegir client fidelitzacio
+Alta usuari
+Baixa usuari
+Afegir comentari/valoracio
+
 #### Cas d'ús UC001 - *nom* ####
 
 > Descripció del primer cas d'ús. Si bé en una especificació "de veritat", escriuriem el curs rellevant d'esdeveniments, excepcions, etc., aquí ens conformem amb una descripció més "lleugera"
@@ -43,3 +56,10 @@
 ## 2. ESPECIFICACIÓ NO FUNCIONAL ##
 
 > Descriure en més detall els requisits no funcionals que han sortit al document de visió, intentant fer-los el més quantificables possible. Basar-se en alguna plantilla d'especificació de requisits
+
+
+1. *Usabilitat*. El sistema ha de ser molt usable, és a dir, fàcil i intuïtiu per a qualsevol persona que vulgui utilitzar aquest servei. Per tant, la part visual/gràfica ha de ser una eina d'ajuda i testejada per una variada mostra d'usuaris per tal que sigui satisfactòria pels ciutadans.
+2. *Eficiència*. En el nostre cas, no és el requisit més important, però la eficiència és un terme a tenir en compte sempre de cara a l'usuari.
+3. *Portable*. Òbviament, com el sistema està fet per diferents Sistemes Operatius i resolucions de pantalla, haurà de ser portable.
+4. *Mantenible*. Si volem que l'app sigui utilitzada durant mols anys, haurà de ser altament mantenible per facilitar el treball en un futur.
+5. *Segur*. Com hem dit és una aplicació personal, per tant, la segureta és un requisit a tenir en compte.
