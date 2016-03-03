@@ -22,28 +22,48 @@
 
 > A més, per cada cas d'ús, una descripció d'una o dues línies (fins i tot si el nom és prou auto-explicatiu, pot no ser necessari)
 
-- Cas d'ús UC001 - *nom*: descripció
+#### Paquet de gestió clients
+- Cas d'ús UC001: - *Alta negoci*:  
+descripció
 
-- Cas d'ús UC002 - *nom*: descripció
+- Cas d'ús UC002: - *Baixa negoci*:  
+descripció
 
-- etc...
+- Cas d'ús UC003: - *Alta usuari*:  
+descripció
+
+- Cas d'ús UC004: - *Baixa usuari*:  
+descripció
+
+#### Paquet gestió comerç
+- Cas d'ús UC005: - *Alta oferta*:  
+descripció
+
+- Cas d'ús UC006: - *Alta promoció*:  
+descripció
+
+- Cas d'ús UC007: - *Editar informació botiga*:  
+descripció
+
+- Cas d'ús UC008: - *Editar catàleg*:  
+descripció
+
+- Cas d'ús UC009: - *Alta client fidel*:  
+descripció
+
+#### Paquet útils usuari
+- Cas d'ús UC010: - *Subscripció*:  
+descripció
+
+- Cas d'ús UC011: - *Llistar botigues*:  
+descripció
+
+- Cas d'ús UC0112: - *Afegir valoració*:  
+descripció
 
 ### 1.2. Descripció individual dels casos d'ús
 
 > Un per un, es descriuen els casos d'ús introduïts a la subsecció 1.1. Com ja s'ha dit adalt, els casos d'ús s'aniran defining paulatinament
-
-Alta negoci
-Baixa negoci
-Alta oferta
-Alta promocio
-Editar informacio botiga
-Editar cataleg
-Subscripció
-Veure productes
-Afegir client fidelitzacio
-Alta usuari
-Baixa usuari
-Afegir comentari/valoracio
 
 #### Cas d'ús UC001 - *nom* ####
 
@@ -57,8 +77,16 @@ Afegir comentari/valoracio
 
 > Descriure en més detall els requisits no funcionals que han sortit al document de visió, intentant fer-los el més quantificables possible. Basar-se en alguna plantilla d'especificació de requisits
 
+### Usabilitat - NFR001
+##### Descripció
 
-1. *Usabilitat*. El sistema ha de ser molt usable, és a dir, fàcil i intuïtiu per a qualsevol persona que vulgui utilitzar aquest servei. Per tant, la part visual/gràfica ha de ser una eina d'ajuda i testejada per una variada mostra d'usuaris per tal que sigui satisfactòria pels ciutadans.
+##### Justificació
+
+##### Font
+
+##### Criteris de  validació
+
+1. ID requis*Usabilitat*. El sistema ha de ser molt usable, és a dir, fàcil i intuïtiu per a qualsevol persona que vulgui utilitzar aquest servei. Per tant, la part visual/gràfica ha de ser una eina d'ajuda i testejada per una variada mostra d'usuaris per tal que sigui satisfactòria pels ciutadans.
 2. *Eficiència*. En el nostre cas, no és el requisit més important, però la eficiència és un terme a tenir en compte sempre de cara a l'usuari.
 3. *Portable*. Òbviament, com el sistema està fet per diferents Sistemes Operatius i resolucions de pantalla, haurà de ser portable.
 4. *Mantenible*. Si volem que l'app sigui utilitzada durant mols anys, haurà de ser altament mantenible per facilitar el treball en un futur.
