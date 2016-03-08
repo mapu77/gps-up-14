@@ -24,16 +24,16 @@
 
 #### Paquet de gestió clients
 - Cas d'ús UC001: - *Alta negoci*:  
-descripció
+Fa referència a l'acció de donar-se d'alta (registrar-se) a l'aplicació per part dels comerciants.
 
 - Cas d'ús UC002: - *Baixa negoci*:  
-descripció
+Fa referència a l'acció de donar-se de baixa de l'aplicació per part dels comerciants.
 
 - Cas d'ús UC003: - *Alta usuari*:  
-descripció
+Fa referència a l'acció de donar-se d'alta (registrar-se) a l'aplicació per part dels clients/ciutadans.
 
 - Cas d'ús UC004: - *Baixa usuari*:  
-descripció
+Fa referència a l'acció de donar-se de baixa de l'aplicació per part dels clients/ciutadans.
 
 #### Paquet gestió comerç
 - Cas d'ús UC005: - *Alta oferta*:  
