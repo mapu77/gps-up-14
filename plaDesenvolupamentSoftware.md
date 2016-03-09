@@ -1,17 +1,10 @@
-﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
-
-# SISTEMA NOM - PLA DE DESENVOLUPAMENT DE SOFTWARE #
-
-> El propòsit del document de pla de desenvolupament de software és determinar l'esforç, cost i calendari a nivell de projecte (distingint només les 4 fases)
-
+﻿# Bcn - eCommerce - PLA DE DESENVOLUPAMENT DE SOFTWARE #
 
 ## 1. ORGANITZACIÓ I EQUIP ##
-
-> Descriure breument l'organització i l'equip de treball (quins rols, quants treballadors de cada rol)
-
-Som el departament Smart City de l'Ajuntament de Barcelona. Som un grup de 6 persones, els quals tenim un Gestor del Projecte, quatre desenvolupadors i per últim, un dissenyador gràfic.
+Som el departament Smartcities de l'Ajuntament de Barcelona.
+L'equip que el formem som un grup de 6 persones - un gestor del projectes, quatre programadors juniors i per últim, un dissenyador gràfic -.
 El rol del gestor és planificar el projecte i assignar les tasques a cada membre del grup. Per altra banda, els desenvolupadors són els experts en web i mòbil. Per últim, el 
-dissenyador gràfic serà l'encarregat de dissenyar totes les interfícies gràfiques de l'aplicació. 
+dissenyador gràfic serà l'encarregat de dissenyar totes les interfícies gràfiques de l'aplicació així com tenir en compte conceptes d'usabilitat. 
 
 ## 2. PLA DE PROJECTE ##
 

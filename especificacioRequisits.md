@@ -14,13 +14,7 @@
 
 ### 1.1. Diagrama de casos d'ús
 
-> Diagrama UML clàssic. És important mantenir la consistència amb altres documents, per exemple els actors del diagrama han de ser un subconjunt de les parts interessades establertes al document de visió (i més coses...)
-
-> Si creieu que us ajuda a la legibilitat, podeu agrupar casos d'ús similars en paquets
-
-![](http://agilemodeling.com/images/style/useCaseOnlineShopping.gif)
-
-> A més, per cada cas d'ús, una descripció d'una o dues línies (fins i tot si el nom és prou auto-explicatiu, pot no ser necessari)
+![Diagrama de casos d'ús](img/DiagramaCasosUs.png "Diagrama de casos d'ús")
 
 #### Paquet de gestió clients
 - Cas d'ús UC001: - *Alta negoci*:  
@@ -37,25 +31,26 @@ Fa referència a l'acció de donar-se de baixa de l'aplicació per part dels cli
 
 #### Paquet gestió comerç
 - Cas d'ús UC005: - *Alta oferta*:  
-Quan es crea un nou comerç donar-li la opció de donar-se de alta.
+Afegir una oferta del negoci al sistema.  
 
 - Cas d'ús UC006: - *Alta promoció*:  
-Quan un comerç té una nova promoció, afegir-la al servei.
+Afegir una promoció del negoci al sistema.  
 
 - Cas d'ús UC007: - *Editar informació botiga*:  
 Poder canviar la informació del comerç sempre que es desitgi.
 
 - Cas d'ús UC008: - *Editar catàleg*:  
-descripció
-
-- Cas d'ús UC009: - *Alta client fidel*:  
-descripció
+Modificar la informació de qualsevol producte o servei que el negoci o comerç ofereixi
 
 #### Paquet útils usuari
+- Cas d'ús UC009: - *Fidelització*:  
+El negoci decideix fidelitzar un client oferint-li bonificacions en les
+seves transaccions habituals.
+
 - Cas d'ús UC010: - *Subscripció*:  
 descripció
 
-- Cas d'ús UC011: - *Llistar botigues*:  
+- Cas d'ús UC011: - *Cercar negoci*:  
 descripció
 
 - Cas d'ús UC0112: - *Afegir valoració*:  

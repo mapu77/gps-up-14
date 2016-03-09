@@ -46,7 +46,7 @@ servei d'emmagatzematge web.
 El producte que volem dissenyar és un sistema d'inforació que consisteix en una app per a mòbil, que anuncia serveis dels petits comerços de Barcelona. A més a més, tindrà una
 pàgina web que fara més fàcil la publicitat dels comerciants, tot i que igualment contindrà totes les funcionalitats de l'app. 
  
-![Esquema de l'arquitectura del sistema](img/architecture.gif "Esquema de l'arquitectura del sistema)
+![Esquema de l'arquitectura del sistema](img/architecture.gif "Esquema de l'arquitectura del sistema")
 
 ### 4.2. Descripció del producte ###
 
