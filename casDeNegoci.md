@@ -1,4 +1,4 @@
-# BCN-Commerce - CAS DE NEGOCI #
+﻿# BCN-Commerce - CAS DE NEGOCI #
 
 ## 1. DESCRIPCIÓ DEL PRODUCTE ##
 
@@ -15,6 +15,8 @@ El sector de negoci de la nostra aplicació es comercial, ja que dona suport als
 2. Augmentar el petit comerç: fer que els ciutadans comprin en els comerços de barri y no en gran superfícies.
 3. Informar dels millors comerços: al haver un sistema de valoració, els millors comerços seran mes populars.
 4. Augmentar la comunicació entre botiges y ciutadans: al haver un sistema de fidelització les botigues poden informar als seus millors clients.
+
+"Augmentar les vendes en els petits comerços i incrementar els ingressos de l'any passat d'aquests en el període d'un any." 
  
 ## 4. RESTRICCIONS ##
 
@@ -27,6 +29,6 @@ El sector de negoci de la nostra aplicació es comercial, ja que dona suport als
 
 El producte no es comercial, per el qual no es traurà benefici monetari, per altre banda, es poden treure beneficis polítics, ja que de cara als comerços l’ajuntament haurà facilitat un eina que permetrà fer publicitat gratis als comerços, y de cara als ciutadans, un servei, per poder conèixer y comparar comerços.
 
-Aquesta aplicació es necessària per poder unir el petit comerç y al ciutadà, y formar una xarxa de informació y a demés feta per el ajuntament de Barcelona.
+Aquesta aplicació es necessària per poder unir el petit comerç i al ciutadà, i formar una xarxa de informació i ademés feta per el ajuntament de Barcelona.
 
 ## 6. RECURSOS ##
