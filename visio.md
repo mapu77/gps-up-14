@@ -2,8 +2,13 @@
  
 ## 1. INTRODUCCIÓ ##
 
-El sistema a construir vol apropar el comerç petit i de proximitat als ciutadans i a les noves tecnologies. Donar-los un espai de promoció i de publicitat per tal d'incentivar la seva economia i donar-se a conèixer al públic.  
-De cara al usuari, informar-lo d'ofertes, promocions i notícies sobre els comerços a la ciutat de Barcelona.
+En aquest document presentarem el problema que el nostre problema pretén afrontar,
+tot mostrant les possibles parts interessades i les seves responsabilitats 
+en el sistema.  
+Presentem també una descripció del producte amb un esquema de la seva perspectiva, 
+les seves funcionalitats a priori i els supòsits de bon funcionament.  
+Finalment esmentem la dependència del nostre sistema sobre els altres sistemes i
+els requisits no funcionals que pretenem que el nostre sistema també satisfaci.  
 
 ## 2. EL PROBLEMA ##
 
@@ -84,5 +89,5 @@ sistema.
 
 ## 5. RECURSOS ##
 
-[1] https://es.wikipedia.org/wiki/Requisito_no_funcional
+[1](https://es.wikipedia.org/wiki/Requisito_no_funcional)
 

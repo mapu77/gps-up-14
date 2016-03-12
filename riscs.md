@@ -3,80 +3,68 @@
 ## RISC 001. Interfície poc usable ##
 
 ### Descripció ###
-
-La interfície del aplicatiu web i mòvil és poc intuïtiva, difícil d'apendre
-a usar i poc satisfactori el seu ús.  
-Els usuaris - botiguers i consumidors - deixaràn de fer servir el sistema.  
+La interfície de l'aplicació web i mòbil és poc intuïtiva, difícil d'aprendre
+a usar i poc satisfactori el seu ús.
+Els usuaris - botiguers i consumidors - deixaran de fer servir el sistema.
 
 ### Probabilitat ###
-
-Poc probable.  
-Dissenarem la interfície per a que sigui perfectament usable per qualsevol col·lectiu d'usuaris, 
+Poc probable.
+Dissenyarem la interfície perquè sigui perfectament usable per qualsevol col·lectiu d'usuaris,
 no obstant ens podem trobar amb petits problemes.
- 
+
 ### Impacte ###
-
 L'impacte d'aquest risc suposa el fracàs dels objectius. Per tant, té un
-impacte molt alt/greu.  
- 
+impacte molt alt/greu.
+
 ### Indicadors ###
+Un indicador clar que aquest risc està ocorrent són les possibles
+queixes o suggeriments de canvi de la interfície, així com l'abandonament
+massiu de l'ús del sistema.
 
-Un indicador clar de que aquest risc està ocorren són les possibles
-queixes o suggerències de canvi de la interfície, així com l'abandonament
-massiu de l'ús del sistema.  
- 
 ### Estratègies de mitigació ###
-
-Fent proves d'usabilitat del sistema (abans i durant el seu desenvolupament) 
+Provant la usabilitat del sistema (abans i durant el seu desenvolupament)
 podem trobar els problemes més crítics d'usabilitat. Caldrà l'ús exhaustiu
-dels usuaris per descobrir-ne el total.  
- 
-### Plans de mitigació ###
+dels usuaris per descobrir-ne el total.
 
+### Plans de mitigació ###
 Fer una interfície usable des del principi que requereixi poques novetats
-un cop distribuit el sistema. Tanmateix, oferir alguna formació als comerciants
-si el sistema realment ho requereix.  
+un cop distribuït el sistema. Tanmateix, oferir alguna formació als comerciants
+si el sistema realment ho requereix.
+
 
 ## RISC 002. Poc impacte social ##
 
 ### Descripció ###
-
 L'impacte en la societat d'aquest sistema no s'adequa al previst tot i els
 estudis realitzats i la necessitat d'aquest sistema.
 
 ### Probabilitat ###
-
 Versemblant.
 
 ### Impacte ###
-
 L'impacte d'aquest risc provocarà una despesa en temps i diners dels contribuents
 per part de l'ajuntament.
 
-
 ### Indicadors ###
-
 Un indicador clar de què ha ocorregut aquest risc és que no s'usi el sistema
 en el nivell que esperem. Tanmateix, els comentaris sobre el sistema que
 puguin existir al GooglePlay o al AppleStore indicaran si està a punt d'ocórrer
 o no.
- 
-### Estratègies de mitigació ###
 
+### Estratègies de mitigació ###
 El client és el client, i pot decidir canviar de parer en qualsevol moment.
 Així doncs, per reduir al màxim la probabilitat d'ocurrència del risc caldrà
 convèncer els comerciants que el sistema que oferim és vital per ell.
- 
-### Plans de mitigació ###
 
+### Plans de mitigació ###
 Una estratègia per reduir l'impacte d'aquest risc quan es produeixi
 pot ser afegir noves funcionalitats a les existents que prèviament hauran
 estat consultades o enquestades.
 
+
 ## RISC 003. No recuperar la inversió##
 
 ### Descripció ###
-
 A l'hora de fer l'aplicació, hi ha un risc molt gran que és el no recuperar la inversió que s'ha fet. 
 
 ### Probabilitat ###
@@ -100,23 +88,21 @@ Com a mesura, faria una aplicació que tingués el màxim abast possible cap als
 
 Com a pla de mitigació, es podria buscar altres formes de finançar el sistema.
 
+
 ## RISC 004. Problemes de compatibilitat##
 
 ### Descripció ###
 
 Seria un problema que la nostra aplicació no tingués compatibilitat amb tots els sistemes Android, així com IOS i Windows Phone.
 
-
 ### Probabilitat ###
 
 Poc probable.
-
 
 ### Impacte ###
 
 L'impacte que tindria aquest risc és una reducció del nombre d'usuaris que usen el nostre Software, ja que no tothom serà capaç de fer-lo servir, o almenys,
 de la mateixa forma. 
-
  
 ### Indicadors ###
 
@@ -128,10 +114,10 @@ Software. Si no hi ha cap problema, no hauríem de tenir gaire problemes.
 Per a reduir la probabilitat del risc, farem l'aplicació en una versió baixa dels Sistemes Operatius, així, amb els dispositius i softwares més recents
 no tindrem problema de compatibilitat, ja que haurien de ser capaços de poder arrancar la nostra aplicació.
 
- 
 ### Plans de mitigació ###
 
 Per a reduir l'impacte si es produeix el risc, ampliarem el rang de dispositius per fer-los compatibles amb el nostre sistema.
+
 
 ## RISC 005. Excedir pressupost o temps.##
 
@@ -161,6 +147,7 @@ Fer una bona planificació del projecte sense ser molt voler ser molt optimista 
 
 Contractar més personal si el pressupost ho permet.
 
+
 ## RISC 006. Canvi d'objectius ##
 
 ### Descripció ###
@@ -188,6 +175,7 @@ Concensar l'app amb tot l'Ajuntament i no només amb l'alcalde del moment.
 
 Intentar negociar amb el nou alcalde i canviar la mínima part del projecte.
 
+
 ## RISC 007. Intrusió de seguretat##
 
 ### Descripció ###
@@ -210,15 +198,14 @@ Obtenir informació d’advertència dels tallafocs y dels logs.
 
 Utilitzar servidors segurs y fer servir els estàndards per tractar la informació de caràcter personal.
 
-
 ### Plans de mitigació ###
 
 Si s’utilitza un servidor extern, es pot obtenir una certificació de que les dades y la aplicació estaran segures y disponibles sempre.
 
+
 ## RISC 008. Bugs a la publicació de la app ##
 
 ### Descripció ###
-
 La aplicació ja esta en el mercat y te bugs que fan que no funcioni correctament, com per exemple que es tanqui sola.
 
 ### Probabilitat ###

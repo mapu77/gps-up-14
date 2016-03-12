@@ -1,34 +1,56 @@
 ﻿# BCN-Commerce - CAS DE NEGOCI #
 
-## 1. DESCRIPCIÓ DEL PRODUCTE ##
+## 1. DESCRIPCIÓ DEL PRODUCTE ## 
+Es vol construir un sistema que permeti aproximar a les persones que viuen
+a la ciutat de Barcelona, als petits comerços de la ciutat.
+Els comerços tindran un espai on promocionar-se i poder augmentar el volum
+de la seva demanda, sigui donant informació, sigui oferint descomptes
+a les persones que viuen a la zona del comerç.
 
-Es vol construir un sistema que permeti aproximar a les persones que viuen a una ciutat amb els petits comerços d'on viuen mitjançant aquesta aplicació. Els comerços tindran un espai on
-promocionar-se y poder augmentar el volum de la demanda en el seus negocis, ja sigui donant informació o promocionant-se a les persones que viuen vien a la zona del comerç.
-
-## 2. CONTEXT DE NEGOCI ##
-
-El sector de negoci de la nostra aplicació es comercial, ja que dona suport als comerços de Barcelona per tenir un espai per anunciar-se i donar-se a conèixer. El software es un producte de consum públic, encarregat per un client, en aquest cas l’ajuntament de Barcelona. La vida prevista d'aquesta aplicació es de 4 anys fins que apareixen noves tecnologies que obliguin a actualitzar la aplicació o crear-ne una nova.
+## 2. CONTEXT DE NEGOCI ## 
+El sector de negoci de la nostra aplicació és comercial, ja que dóna suport
+als comerços de Barcelona per tenir un espai per anunciar-se i donar-se a conèixer.
+El software a desenvolupar és un producte de consum públic, ideat pel
+departament de Smart Cities de l’ajuntament de Barcelona. La vida prevista d'aquesta
+aplicació és més 4 anys fins que apareguin noves tecnologies que obliguin
+a actualitzar l'aplicació o canviï la necessitat d'aquesta.
 
 ## 3. OBJECTIUS DEL PRODUCTE ##
-
-1. Publicitari petits comerços: es mostraran el comerços de la ciutat, atraient als ciutadans a les tendes.
-2. Augmentar el petit comerç: fer que els ciutadans comprin en els comerços de barri y no en gran superfícies.
-3. Informar dels millors comerços: al haver un sistema de valoració, els millors comerços seran mes populars.
-4. Augmentar la comunicació entre botiges y ciutadans: al haver un sistema de fidelització les botigues poden informar als seus millors clients.
-
+1. Publicitari petits comerços: es mostraran els comerços de la ciutat, atraient els ciutadans a les tendes. 
+2. Augmentar el petit comerç: fer que els ciutadans comprin en els comerços de barri i no en grans superfícies. 
+3. Informar dels millors comerços: en haver-hi un sistema de valoració, els millors comerços seran més populars. 
+4. Augmentar la comunicació entre botiges i ciutadans: en haver-hi un sistema de fidelització les botigues poden informar els seus millors clients. 
 "Augmentar les vendes en els petits comerços i incrementar els ingressos de l'any passat d'aquests en el període d'un any." 
- 
-## 4. RESTRICCIONS ##
+[2]
 
-1. Tecnologia: No totes les persones utilitzen un smartphone.
-2. Comerços: No tots el comerços voldran participar.
-3. Difusió: Encara que l'ajuntament ens ajudi a publicitari l’aplicació, quedaran ciutadans que no s’assabentaran de que existeix aquesta aplicació.
-4. Servidors: Per crear la aplicació necessitarem servidor per el backend que s'han de pagar.
+## 4. RESTRICCIONS ## 
+1. Escletxa tecnològica:
+El 84% dels ciutadans de Barcelona té Internet a la llar i un 76% es connecta des del mòbil.
+Això implica que d'entre unes 256.000 a unes 385.000 persones no podran
+accedir al sistema de forma freqüent. [1]
+2. Comerços:
+És essencial que el màxim de comerços possibles s'adhereixin al sistema
+i n'esdevinguin parts interessades, però no podem obviar el fet que hi
+haurà alguns que no voldran participar.
+3. Difusió:
+Per assegurar un màxim ús del sistema, és clar que requerirà el màxim
+nombre de negocis participant-hi. No obstant això, és crucial que hi hagi
+la màxima publicitat d'aquest sistema i que arribi al màxim nombre de
+ciutadans possibles.
+4. Restricció tecnològica:
+L'ús d'altres sistemes com servidors i bases de dades podrà afectar el bon
+funcionament del sistema. Per exemple, la caiguda dels servidors deixaria
+el sistema completament inservible.
 
-## 5. PREVISIÓ FINANCERA ##
+## 5. PREVISIÓ FINANCERA ## 
+El producte no és comercial, per tant no es traurà benefici monetari.
+Per altra banda, es poden treure beneficis polítics, ja que de cara als
+comerços l’ajuntament haurà facilitat una eina que permetrà fer publicitat
+gratuïta als comerços. Tanmateix aportarà un benefici social de cara als
+ciutadans, donat que atorgarà un servei per poder conèixer i comparar comerços.
+Aquesta aplicació és necessària per poder unir el petit comerç i el ciutadà,
+i formar així una xarxa d'informació entre ciutadans i botiguers.
 
-El producte no es comercial, per el qual no es traurà benefici monetari, per altre banda, es poden treure beneficis polítics, ja que de cara als comerços l’ajuntament haurà facilitat un eina que permetrà fer publicitat gratis als comerços, y de cara als ciutadans, un servei, per poder conèixer y comparar comerços.
-
-Aquesta aplicació es necessària per poder unir el petit comerç i al ciutadà, i formar una xarxa de informació i ademés feta per el ajuntament de Barcelona.
-
-## 6. RECURSOS ##
+## 6. RECURSOS ## 
+[1] Mobile World Capital Barcelona. *L'escletxa digital a la ciutat de Barcelona*. Disponible a: [](http://mobileworldcapital.com/escletxa-digital/#3rdPage) - Consultat el: 12 Març 2016
+[2] Wikipedia. *SMART Criteria* Disponible a: [](https://en.wikipedia.org/wiki/SMART_criteria) - Consultat el: 12 Març 2016

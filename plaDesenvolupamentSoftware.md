@@ -1,4 +1,4 @@
-﻿# Bcn - eCommerce - PLA DE DESENVOLUPAMENT DE SOFTWARE #
+﻿# Bcn-eCommerce - PLA DE DESENVOLUPAMENT DE SOFTWARE #
 
 ## 1. ORGANITZACIÓ I EQUIP ##
 Som el departament Smartcities de l'Ajuntament de Barcelona.
