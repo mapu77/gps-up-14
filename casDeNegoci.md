@@ -54,4 +54,4 @@ i formar així una xarxa d'informació entre ciutadans i botiguers.
 ## 6. RECURSOS ## 
 [1] Mobile World Capital Barcelona. *L'escletxa digital a la ciutat de Barcelona*. Disponible a: [](http://mobileworldcapital.com/escletxa-digital/#3rdPage) - Consultat el: 12 Març 2016
 [2] Wikipedia. *SMART Criteria* Disponible a: [](https://en.wikipedia.org/wiki/SMART_criteria) - Consultat el: 12 Març 2016
-[3] http://oposicionestic.blogspot.com.es/2009/07/el-sueldo-de-un-funcionario-tic.html
+[3] OposicionesTIC. *Consejos e Información de utilidad para aquellos que han iniciado el camino de las oposiciones de Informática y Telecomunicaciones*. Disponible a: [](http://oposicionestic.blogspot.com.es/2009/07/el-sueldo-de-un-funcionario-tic.html) Consultat el: 16 Març 2016.
