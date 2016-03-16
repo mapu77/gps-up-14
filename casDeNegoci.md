@@ -1,13 +1,13 @@
 ﻿# BCN-Commerce - CAS DE NEGOCI #
 
-## 1. DESCRIPCIÓ DEL PRODUCTE ## 
+## 1. DESCRIPCIÓ DEL PRODUCTE
 Es vol construir un sistema que permeti aproximar a les persones que viuen
 a la ciutat de Barcelona, als petits comerços de la ciutat.
 Els comerços tindran un espai on promocionar-se i poder augmentar el volum
 de la seva demanda, sigui donant informació, sigui oferint descomptes
 a les persones que viuen a la zona del comerç.
 
-## 2. CONTEXT DE NEGOCI ## 
+## 2. CONTEXT DE NEGOCI
 El sector de negoci de la nostra aplicació és comercial, ja que dóna suport
 als comerços de Barcelona per tenir un espai per anunciar-se i donar-se a conèixer.
 El software a desenvolupar és un producte de consum públic, ideat pel
@@ -15,13 +15,18 @@ departament de Smart Cities de l’ajuntament de Barcelona. La vida prevista d'a
 aplicació és més 4 anys fins que apareguin noves tecnologies que obliguin
 a actualitzar l'aplicació o canviï la necessitat d'aquesta.
 
-## 3. OBJECTIUS DEL PRODUCTE ##
-1. Publicitari petits comerços: es mostraran els comerços de la ciutat, atraient els ciutadans a les tendes. 
-2. Augmentar el petit comerç: fer que els ciutadans comprin en els comerços de barri i no en grans superfícies. 
-3. Informar dels millors comerços: en haver-hi un sistema de valoració, els millors comerços seran més populars. 
-4. Augmentar la comunicació entre botiges i ciutadans: en haver-hi un sistema de fidelització les botigues poden informar els seus millors clients. 
-"Augmentar les vendes en els petits comerços i incrementar els ingressos de l'any passat d'aquests en el període d'un any." 
-[2]
+## 3. OBJECTIUS DEL PRODUCTE 
+Els objectius del sistema són objectius S.M.A.R.T. De les sigles en anglès de Specific, Mesurable, Agreed, Realistic i Time-bound. En concret,
+tot objectiu és clar, mesurable si s'ha assolit, consensuat per les parts interessades, realista i limitat temporalment. [2]
+
+1. Augmentar les vendes en els petits comerços de Barcelona al cap d'un any d'implantar el sistema
+2. Incrementar els ingressos de l'any passat dels petits comerços de Barcelona al cap d'un any d'implantar el sistema.
+3. Oferir als petits comerços de Barcelona un espai on publicitar-se des del moment en que s'implanta el sistema.
+4. Oferir als petits comerços de Barcelona la possibilitat promocionar-se i posar ofertes des del moment en que s'implanta el sistema.
+5. Oferir als petits comerços de Barcelona un sistema de fidelització amb els clients més freqüents des del moment en que s'implanta el sistema.
+6. Fer crèixer la popularitat de l'Ajuntament de Barcelona al cap d'un any d'implantar el sistema.
+7. Permetre als ciutadans de Barcelona subscriure's a les promocions dels comerços adherits al sistema des del moment en que s'implanta.
+8. Permetre als ciutadans de Barcelona trobar els petits comerços de la ciutat des del moment en que s'implanta el sistema.
 
 ## 4. RESTRICCIONS ## 
 1. Escletxa tecnològica:
