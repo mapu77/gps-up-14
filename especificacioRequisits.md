@@ -45,13 +45,16 @@ El negoci decideix fidelitzar un client oferint-li bonificacions en les
 seves transaccions habituals.
 
 - Cas d'ús UC010: - *Subscripció*:  
-descripció
+L'usuari es podra subscriure a un comerç per rebre informació y novetats d'aquest a traves de
+la app i del email.
 
 - Cas d'ús UC011: - *Cercar negoci*:  
-descripció
+L'usuari podrá cercar un negoci a partir del nom, de la ubicació a traves del maps, o elgint
+una categoria.
 
 - Cas d'ús UC012: - *Afegir valoració*:  
-descripció
+L'usuari podrá valorar a un comerç a traves d'una puntuació numerica i podra deixar comentaris que podrán
+veure tant el comerç com els altres usuaris.
 
 ### 1.2. Descripció individual dels casos d'ús
 
