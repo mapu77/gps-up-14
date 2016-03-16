@@ -2,7 +2,7 @@
 
 ## 1. ORGANITZACIÓ I EQUIP ##
 Som el departament Smartcities de l'Ajuntament de Barcelona.
-L'equip que el formem som un grup de 6 persones - un gestor del projectes, quatre programadors juniors i per últim, un dissenyador gràfic -.
+L'equip que el formem som un grup de 7 persones - un gestor del projectes, quatre programadors juniors i per últim, dos dissenyador gràfic -.
 El rol del gestor és planificar el projecte i assignar les tasques a cada membre del grup. Per altra banda, els desenvolupadors són els experts en web i mòbil. Per últim, el 
 dissenyador gràfic serà l'encarregat de dissenyar totes les interfícies gràfiques de l'aplicació així com tenir en compte conceptes d'usabilitat. 
 
