@@ -13,48 +13,71 @@
 
 ![Diagrama de casos d'ús](img/DiagramaCasosUs.png "Diagrama de casos d'ús")
 
-#### Paquet de gestió clients
-- Cas d'ús UC001: - *Alta negoci*:  
-Fa referència a l'acció de donar-se d'alta (registrar-se) a l'aplicació per part dels comerciants.
+#### Paquet d'altes i baixes
+- Cas d'ús UC001: - *Alta comerç*
+Fa referència a l'acció de donar-se d'alta (registrar-se) al sistema per part dels usuaris/comerciants.
 
-- Cas d'ús UC002: - *Baixa negoci*:  
-Fa referència a l'acció de donar-se de baixa de l'aplicació per part dels comerciants.
+- Cas d'ús UC002: - *Baixa comerç*
+Fa referència a l'acció de donar-se de baixa del sistema per part dels usuaris/comerciants.
 
-- Cas d'ús UC003: - *Alta usuari*:  
-Fa referència a l'acció de donar-se d'alta (registrar-se) a l'aplicació per part dels clients/ciutadans.
+- Cas d'ús UC003: - *Alta usuari*
+Fa referència a l'acció de donar-se d'alta (registrar-se) al sistema per part dels usuaris/ciutadans.
 
-- Cas d'ús UC004: - *Baixa usuari*:  
-Fa referència a l'acció de donar-se de baixa de l'aplicació per part dels clients/ciutadans.
+- Cas d'ús UC004: - *Baixa usuari*
+Fa referència a l'acció de donar-se de baixa del sistema per part dels usuaris/ciutadans.
 
-#### Paquet gestió comerç
-- Cas d'ús UC005: - *Alta oferta*:  
-Afegir una oferta del negoci al sistema.  
+- Cas d'ús UC005: - *Alta oferta*
+Fa referència a l'acció d'afegir una oferta nova al comerç actor
 
-- Cas d'ús UC006: - *Alta promoció*:  
-Afegir una promoció del negoci al sistema.  
+- Cas d'ús UC006: - *Baixa oferta*
+Fa referència a l'acció d'eliminar una oferta existent del comerç actor.
 
-- Cas d'ús UC007: - *Editar informació botiga*:  
-Poder canviar la informació del comerç sempre que es desitgi.
+- Cas d'ús UC007: - *Alta producte o servei*
+Fa referència a l'acció d'afegir un producte o servei al catàleg del comerç actor.
 
-- Cas d'ús UC008: - *Editar catàleg*:  
-Modificar la informació de qualsevol producte o servei que el negoci o comerç ofereixi
+- Cas d'ús UC008: - *Baixa producte o servei*
+Fa referència a l'acció d'eliminar un producte o servei existent del catàleg del comerç actor.
 
-#### Paquet útils usuari
-- Cas d'ús UC009: - *Fidelització*:  
-El negoci decideix fidelitzar un client oferint-li bonificacions en les
-seves transaccions habituals.
+#### Paquet d'edició
+- Cas d'ús UC009: - *Editar informació comerç*
+Fa referència a la modificació de la informació del comerç actor.
+ 
+- Cas d'ús UC010: - *Editar informació usuari*
+Fa referència a la modificació de la informació del usuari actor.
 
-- Cas d'ús UC010: - *Subscripció*:  
-L'usuari es podra subscriure a un comerç per rebre informació y novetats d'aquest a traves de
-la app i del email.
+- Cas d'ús UC011: - *Editar oferta*
+Fa referència a la modificiació de la informaciço d'una oferta existent en el sistema del comerç actor.
 
-- Cas d'ús UC011: - *Cercar negoci*:  
-L'usuari podrá cercar un negoci a partir del nom, de la ubicació a traves del maps, o elgint
-una categoria.
+- Cas d'ús UC012: - *Editar producte o servei*
+Fa referència a la modificació de les informació d'un producte o servei existent en el sistema del comerç actor.
 
-- Cas d'ús UC012: - *Afegir valoració*:  
-L'usuari podrá valorar a un comerç a traves d'una puntuació numerica i podra deixar comentaris que podrán
-veure tant el comerç com els altres usuaris.
+#### Paquet de utilitats
+- Cas d'ús UC013: - *Sol·licitar fidelització*
+El client/ciutadà sol·licita a un comerç la possibilitat de convertir-se en "client fidel" del comerç
+amb l'objectiu de rebre bonificacions en les transaccions habituals amb el comerç.
+
+- Cas d'ús UC014: - *Confirmar fidelització*
+El comerç confirma les sol·licituts pendents de fidelització del clients que consideri lleials al comerç.
+
+- Cas d'ús UC015: - *Subscripció*
+L'usuari/ciutadà es podra subscriure als comerços que desitgi per rebre informació i novetats d'aquests a través de
+l'aplicació i/o del e-mail.
+
+- Cas d'ús UC016: - *Cercar negoci per barri*
+L'usuari/ciutadà podrà cercar els negocis segons el barri de la ciutat que desitgi, ordenats alfabèticament.
+Aquest cas d'ús pot acumular-se amb els altres casos d'ús de cerca. Per exemple, l'usuari podrà cercar segons barri i categoria.
+
+- Cas d'ús UC017: - *Cercar negoci per categoria*
+L'usuari/ciutadà podrà cercar els negocis segons la categoria que ofereixi l'aplicatiu, ordenats alfabèticament.
+Aquest cas d'ús pot acumular-se amb els altres casos d'ús de cerca. Per exemple, l'usuari podrà cercar segons barri i categoria.
+
+- Cas d'ús UC018: - *Cercar negoci per proximitat*
+L'usuari/ciutadà podrà cercar els negocis segons la posició en que es trobi i localitzar-ne els més propers, ordenats alfabèticament.
+Aquest cas d'ús pot acumular-se amb els altres casos d'ús de cerca. Per exemple, l'usuari podrà cercar segons on es trobi i categoria.
+
+- Cas d'ús UC019: - *Afegir valoració*
+L'usuari podrà valorar els comerços a través d'una puntuació numèrica i podrà afegir comentaris que seran visibles
+tant el comerç com els altres usuaris.
 
 ### 1.2. Descripció individual dels casos d'ús
 
