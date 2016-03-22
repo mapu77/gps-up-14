@@ -13,45 +13,45 @@
 
 ![Diagrama de casos d'ús](img/DiagramaCasosUs.png "Diagrama de casos d'ús")
 
-#### Paquet d'altes i baixes
-- Cas d'ús UC001: - *Alta comerç*
+#### Paquet de gestió del comerç
+- Cas d'ús UC001: - *Afegir comerç*
 Fa referència a l'acció de donar-se d'alta (registrar-se) al sistema per part dels usuaris/comerciants.
 
-- Cas d'ús UC002: - *Baixa comerç*
+- Cas d'ús UC002: - *Eliminar comerç*
 Fa referència a l'acció de donar-se de baixa del sistema per part dels usuaris/comerciants.
 
-- Cas d'ús UC003: - *Alta usuari*
-Fa referència a l'acció de donar-se d'alta (registrar-se) al sistema per part dels usuaris/ciutadans.
+- Cas d'ús UC003: - *Editar informació comerç*
+Fa referència a la modificació de la informació del comerç actor.
 
-- Cas d'ús UC004: - *Baixa usuari*
-Fa referència a l'acció de donar-se de baixa del sistema per part dels usuaris/ciutadans.
-
-- Cas d'ús UC005: - *Alta oferta*
+- Cas d'ús UC004: - *Afegir oferta*
 Fa referència a l'acció d'afegir una oferta nova al comerç actor
 
-- Cas d'ús UC006: - *Baixa oferta*
+- Cas d'ús UC005: - *Eliminar oferta*
 Fa referència a l'acció d'eliminar una oferta existent del comerç actor.
 
-- Cas d'ús UC007: - *Alta producte o servei*
-Fa referència a l'acció d'afegir un producte o servei al catàleg del comerç actor.
-
-- Cas d'ús UC008: - *Baixa producte o servei*
-Fa referència a l'acció d'eliminar un producte o servei existent del catàleg del comerç actor.
-
-#### Paquet d'edició
-- Cas d'ús UC009: - *Editar informació comerç*
-Fa referència a la modificació de la informació del comerç actor.
- 
-- Cas d'ús UC010: - *Editar informació usuari*
-Fa referència a la modificació de la informació del usuari actor.
-
-- Cas d'ús UC011: - *Editar oferta*
+- Cas d'ús UC006: - *Editar informació oferta*
 Fa referència a la modificiació de la informaciço d'una oferta existent en el sistema del comerç actor.
 
-- Cas d'ús UC012: - *Editar producte o servei*
+- Cas d'ús UC007: - *Afegir producte o servei*
+Fa referència a l'acció d'afegir un producte o servei al catàleg del comerç actor.
+
+- Cas d'ús UC008: - *Eliminar producte o servei*
+Fa referència a l'acció d'eliminar un producte o servei existent del catàleg del comerç actor.
+
+- Cas d'ús UC009: - *Editar producte o servei*
 Fa referència a la modificació de les informació d'un producte o servei existent en el sistema del comerç actor.
 
-#### Paquet de utilitats
+#### Paquet de gestió d'usuari
+- Cas d'ús UC010: - *Afegir usuari*
+Fa referència a l'acció de donar-se d'alta (registrar-se) al sistema per part dels usuaris/ciutadans.
+
+- Cas d'ús UC011: - *Eliminar usuari*
+Fa referència a l'acció de donar-se de baixa del sistema per part dels usuaris/ciutadans.
+
+- Cas d'ús UC012: - *Editar informació usuari*
+Fa referència a la modificació de la informació del usuari actor.
+
+#### Paquet de útils
 - Cas d'ús UC013: - *Sol·licitar fidelització*
 El client/ciutadà sol·licita a un comerç la possibilitat de convertir-se en "client fidel" del comerç
 amb l'objectiu de rebre bonificacions en les transaccions habituals amb el comerç.
@@ -79,6 +79,14 @@ Aquest cas d'ús pot acumular-se amb els altres casos d'ús de cerca. Per exempl
 L'usuari podrà valorar els comerços a través d'una puntuació numèrica i podrà afegir comentaris que seran visibles
 tant el comerç com els altres usuaris.
 
+- Cas d'ús UC020: - *Eliminar valoració*
+L'usuari podrà eliminar qualsevol valoració que hagi afegit prèviament a un comerç i deixarà de ser visible tant pel
+comerç com pels altres usuaris.
+
+- Cas d'ús UC021: - *Reportar valoració*
+En cas que algun comentari d'una valoració contingui qualsevol mena de llenguatge ofensiu, degradant o discriminatori,
+la valoració podrà ser reportada per a la seva futura eliminació.
+
 ### 1.2. Descripció individual dels casos d'ús
 
 > Un per un, es descriuen els casos d'ús introduïts a la subsecció 1.1. Com ja s'ha dit adalt, els casos d'ús s'aniran defining paulatinament
@@ -105,8 +113,6 @@ Usuaris
 ##### Criteris de  validació
 Els usuaris la puntuan bé i no rebem queixes de díficil de utilitzar o que no saben utilitzarla.  
 
-
-
 ### Eficiència - NFR002
 ##### Descripció
 Sistema ràpid, que no trigui molt a fer els cassos d'ús.
@@ -116,7 +122,6 @@ Un sistema lent pot provocar desesperació a l'usuari i que deixi de utilitzar l
 Usuaris
 ##### Criteris de  validació
 Els usuaris la puntuan bé i no rebem queixes d'aplicació lenta.
-
 
 ### Portable - NFR003
 ##### Descripció
@@ -128,7 +133,6 @@ Ajuntament
 ##### Criteris de  validació
 Es pot utilitzar en totes les plataformes on s'ha definit que haurà de funcionar.
 
-
 ### Mantenible - NFR004
 ##### Descripció
 Sistema que es pugui mantenir durant molts anys i poder-lo actualitzar còmodament.
@@ -138,7 +142,6 @@ Ja que s'inverteix des de l'ajuntament en aquest sistema, es desitja que es pugu
 Ajuntament
 ##### Criteris de  validació
 Segueix una sèrie de criteris que confirmin la independència entre classes (entre altres coses).
-
 
 ### Segur - NFR005
 ##### Descripció
