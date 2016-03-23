@@ -91,13 +91,147 @@ la valoració podrà ser reportada per a la seva futura eliminació.
 
 > Un per un, es descriuen els casos d'ús introduïts a la subsecció 1.1. Com ja s'ha dit adalt, els casos d'ús s'aniran defining paulatinament
 
-#### Cas d'ús UC001 - *nom* ####
 
-> Descripció del primer cas d'ús. Si bé en una especificació "de veritat", escriuriem el curs rellevant d'esdeveniments, excepcions, etc., aquí ens conformem amb una descripció més "lleugera"
+#### Cas d'ús UC001 - *Afegir comerç* ####
 
-#### Cas d'ús UC002 - *nom* ####
+El sistema mostra una llista amb els camps necessaris per donar d'alta un comerç (Nom, Direcció, Tipus, Horari, Telèfon) i altres d'optatius com una fotografia o la pàgina webb si en té.
+A continuació es mira a la base de dades si aquest comerç compleix els requisits, si els compleix s'afegeix al sistema i es demana un usuari encarregat de mantenir aquest perfil.
+Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
 
-> etc.
+#### Cas d'ús UC002 - *Eliminar comerç* ####
+
+El sistema mostra el/s comerç/os que l'usuari és administrador. 
+A continuació s'escull el comerç que es desitja eliminar, el sistema mostra un missatge de confirmació i a continuació s'elimina del sistema.
+
+#### Cas d'ús UC003 - *Editar informació comerç* ####
+
+El sistema mostra el/s comerç/os que l'usuari és administrador. 
+A continuació s'escull el comerç que es desitja editar.
+Es mostran tots els camps que estan omplerts i els que estan buits però es poden omplir perquè son optatius.
+Es permet modificar qualsevol d'aquests camps.
+Quan l'usuari adminsitrador desitja modificar els canvis es clica al botó 'guardar' i es guarden els canvis.
+Enviar avís als subscriptors.
+
+#### Cas d'ús UC004 - *Afegir oferta* ####
+
+El sistema mostra el/s comerç/os que l'usuari és administrador. 
+A continuació s'escull el comerç que es desitja afegir oferta.
+Es mostren els camps necessaris per a afegir una oferta (article, tipus (2x1,descompte, etc.), data fi oferta).
+A continuació es mira a la base de dades si aquesta oferta compleix els requisits, si els compleix s'afegeix al sistema.
+Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
+Enviar avís als subscriptors.
+
+#### Cas d'ús UC005 - *Eliminar oferta* ####
+
+El sistema mostra el/s comerç/os que l'usuari és administrador. 
+El sistema mostra la/les oferta/es que té el comerç. 
+A continuació s'escull la oferta que es desitja eliminar, el sistema mostra un missatge de confirmació i a continuació s'elimina del sistema.
+Enviar avís als subscriptors.
+
+#### Cas d'ús UC006 - *Editar informació oferta* ####
+
+El sistema mostra el/s comerç/os que l'usuari és administrador. 
+A continuació s'escull el comerç que es desitja editar.
+Es mostren totes les ofertes que hi ha actualment.
+A continuació s'escull l'oferta que es desitja editar.
+Es mostran tots els camps que estan omplerts i els que estan buits però es poden omplir perquè son optatius.
+Es permet modificar qualsevol d'aquests camps.
+Quan l'usuari adminsitrador desitja modificar els canvis es clica al botó 'guardar' i es guarden els canvis.
+Enviar avís als subscriptors.
+
+#### Cas d'ús UC007 - *Afegir producte o servei* ####
+
+El sistema mostra el/s comerç/os que l'usuari és administrador. 
+A continuació s'escull el comerç que es desitja afegir producte.
+Es mostren els camps necessaris per a afegir un producte (article, preu).
+A continuació es mira a la base de dades si aquesta oferta compleix els requisits, si els compleix s'afegeix al sistema.
+Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
+Enviar avís als subscriptors.
+
+#### Cas d'ús UC008 - *Eliminar producte o servei* ####
+
+El sistema mostra el/s comerç/os que l'usuari és administrador. 
+El sistema mostra el/s producte/s que té el comerç. 
+A continuació s'escull el producte que es desitja eliminar, el sistema mostra un missatge de confirmació i a continuació s'elimina del sistema.
+Enviar avís als subscriptors.
+
+#### Cas d'ús UC009 - *Editar producte o servei* ####
+
+El sistema mostra el/s comerç/os que l'usuari és administrador. 
+A continuació s'escull el comerç que es desitja editar.
+Es mostren tots els productes que hi ha actualment.
+A continuació s'escull el producte que es desitja editar.
+Es mostran tots els camps que estan omplerts i els que estan buits però es poden omplir perquè son optatius.
+Es permet modificar qualsevol d'aquests camps.
+Quan l'usuari adminsitrador desitja modificar els canvis es clica al botó 'guardar' i es guarden els canvis.
+Enviar avís als subscriptors.
+
+#### Cas d'ús UC010 - *Afegir usuari* ####
+
+Es mostren els camps necessaris per a afegir un usuari (nom, cognom, email, pseudònim) i altres camps optatius com una fotografia.
+A continuació es mira a la base de dades si aquest usuari compleix els requisits, si els compleix s'afegeix al sistema.
+Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
+
+#### Cas d'ús UC011 - *Eliminar usuari* ####
+
+L'usuari clica el botó eliminar, es mostra un missatge de confirmació i si s'accepta, s'limina l'usuari.
+
+#### Cas d'ús UC012 - *Editar informació usuari* ####
+
+Es mostran tots els camps que estan omplerts i els que estan buits però es poden omplir perquè son optatius.
+Es permet modificar qualsevol d'aquests camps.
+Quan l'usuari desitja modificar els canvis es clica al botó 'guardar' i es guarden els canvis.
+
+#### Cas d'ús UC013 - *Sol·licitar fidelització* ####
+
+L'usuari està a la pantalla d'un comerç.
+Clica el botó de fidelitzar.
+El sistema guarda la petició i envia un avís al administrador del comerç, que l'acceptarà o no.
+
+#### Cas d'ús UC014 - *Confirmar fidelització* ####
+
+L'usuari administrador del comerç rep un avís, quan l'obri, té dos opcions, acceptar-la o no.
+Depenen de l'opció escollida l'usuari que fa la petició serà fidel o no.
+
+#### Cas d'ús UC015 - *Subscripció* ####
+
+L'usuari està a la pantalla d'un comerç.
+Clica el botó de subscripció.
+El sistema guarda la petició i cada cop que hi hagi una novetat rebrà un avís.
+
+
+#### Cas d'ús UC016 - *Cercar negoci per barri* ####
+
+L'usuari selecciona el barri d'una llista i es mostra una llista amb tots els negocis del sistema situats en aquest barri.
+
+#### Cas d'ús UC017 - *Cercar negoci per categoria* ####
+
+L'usuari selecciona la categoria d'una llista i es mostra una llista amb tots els negocis del sistema d'aquesta categoria.
+
+#### Cas d'ús UC018 - *Cercar negoci per proximitat* ####
+
+L'usuari accepta la petició de saber la seva posició actual.
+El sistema mostrarà tots els comerços més pròxims i ordenats per la distància a la que estan de l'usuari.
+
+#### Cas d'ús UC019 - *Afegir valoració* ####
+
+L'usuari està a la pantalla d'un comerç.
+Clica l'opció de valoracions.
+Quan està al final de la vista escriu al requadre que hi ha i clica el botó enviar.
+El sistema guarda la valoració i la afegeix a les valoracions del comerç.
+
+#### Cas d'ús UC020 - *Eliminar valoració* ####
+
+L'usuari està a la pantalla d'un comerç.
+Clica l'opció de valoracions.
+Quan selecciona una valoració seva i clica el botó eliminar el sistema esborra a les valoracions del comerç la seleccionada.
+
+#### Cas d'ús UC021 - *Reportar valoració* ####
+
+L'usuari està a la pantalla d'un comerç.
+Clica l'opció de valoracions.
+Selecciona una valoració i clica el botó reportar (perquè li sembla ofensiva). 
+El sistema avisa als adminsitradors del sistema i si es cal, s'esborra a les valoracions del comerç el comentari seleccionat.
 
 ## 2. ESPECIFICACIÓ NO FUNCIONAL ##
 
