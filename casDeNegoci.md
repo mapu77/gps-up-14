@@ -54,7 +54,7 @@ comerços l’ajuntament haurà facilitat una eina que permetrà fer publicitat
 gratuïta als comerços. Tanmateix aportarà un benefici social de cara als
 ciutadans, donat que atorgarà un servei per poder conèixer i comparar comerços.
 Aquesta aplicació és necessària per poder unir el petit comerç i el ciutadà,
-i formar així una xarxa d'informació entre ciutadans i botiguers.
+i formar així una xarxa d'informació entre ciutadans i botiguers. (AMPLIAR)
 
 ## 6. RECURSOS ## 
 [1] Mobile World Capital Barcelona. *L'escletxa digital a la ciutat de Barcelona*. Disponible a: [](http://mobileworldcapital.com/escletxa-digital/#3rdPage) - Consultat el: 12 Març 2016
