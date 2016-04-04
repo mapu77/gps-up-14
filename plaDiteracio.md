@@ -25,7 +25,7 @@ Aquesta disciplina presenta el 35 per cent de les hores totals de la fase d'Ince
  
 	#### Activitat A001 - *Desenvolupar el cas de negoci.*
 	
-	-Precedència: A003 i A004.
+	-Precedència: A002, A003, A004, A009 i A010.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 15 per cent del temps d'aquesta disciplina. Per tant això implica 7 hores de treball.
 
 
@@ -40,7 +40,7 @@ Aquesta disciplina presenta el 35 per cent de les hores totals de la fase d'Ince
 
 	#### Activitat A003 - *Evaluar riscos.*
 
-	-Precedència: No té precedències.
+	-Precedència: A002 i A009.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 10 per cent del temps d'aquesta disciplina. Per tant això implica 5 hores de treball.
  
 
@@ -48,7 +48,7 @@ Aquesta disciplina presenta el 35 per cent de les hores totals de la fase d'Ince
 	#### Activitat A004 - *Definir l'àmbit del projecte.* 
 
 	-Descripció: Cal definir el radi d'acció del sistema.
-	-Precedència: No té precedències.
+	-Precedència: A009 i A002.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 10 per cent del temps d'aquesta disciplina. Per tant això implica 5 hores de treball.
 
 	
@@ -63,21 +63,21 @@ Aquesta disciplina presenta el 35 per cent de les hores totals de la fase d'Ince
 	#### Activitat A006 - *Control d'iteració.* 
 
 	-Descripció: Obtenir el "feedback" de la iteració per a futurs projectes.
-	-Precedència: A008. 
+	-Precedència: A008, A002. 
 	-Temps d'espera: ->  El temps estimat per aquesta activitat és un 15 per cent del temps d'aquesta disciplina. Per tant això implica 7 hores de treball.
 
 	
 	
 	#### Activitat A007 - *Planificar la iteració següent.* 
 
-	-Precedència: Totes les activitats de la gestió de projectes.
+	-Precedència: Totes les activitats de la gestió de projectes i les activitats de la disciplina de requists.
 	-Temps d'espera: -> El temps estimat per aquesta activitat és un 25 per cent del temps d'aquesta disciplina. Per tant això implica 10 hores de treball.
 
 	
 
 	#### Activitat A008 - *Pla de desenvolupament software.* 
 
-	-Precedència: A003 i A004.
+	-Precedència: A002, A003 i A004.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 10 per cent del temps d'aquesta disciplina. Per tant això implica 5 hores de treball.
 
 
@@ -88,21 +88,21 @@ Aquesta disciplina presenta el 30 per cent de les hores totals de la fase d'Ince
 
 	#### Activitat A009 - *Analitzar el problema.*
 
-	-Precedència: No té precedències.
+	-Precedència: A002.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 25 per cent del temps d'aquesta disciplina. Per tant això implica 10 hores de treball.
 
 	
 
 	#### Activitat A010 - *Entendre les parts interessades.*
 
-	-Precedència: A009.
+	-Precedència: A009, A002 i A004.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 40 per cent del temps d'aquesta disciplina. Per tant això implica 16 hores de treball.
 
 	
 
 	#### Activitat A011 - *Desenvolupar la visió.* 
 
-	-Precedència: A010.
+	-Precedència: A010, A002, A003, A004, A008.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 35 per cent del temps d'aquesta disciplina. Per tant això implica 14 hores de treball.
 
 		
@@ -113,14 +113,14 @@ Aquesta disciplina presenta el 30 per cent de les hores totals de la fase d'Ince
 
 	#### Activitat A012 - *Detallar casos d'ús.*
 
-	-Precedència: A013.
+	-Precedència: A013, A001, A002, A003, A004, A008, A009 i A010.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 70 per cent del temps d'aquesta disciplina. Per tant això implica 28 hores de treball.
 
 
 
 	#### Activitat A013 - *Definir rols i responsabilitats de les parts interessades.*
 
-	-Precedència: No té precedències.
+	-Precedència: A002, A009, A010, A004 i A003.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 30 per cent del temps d'aquesta disciplina. Per tant això implica 12 hores de treball.
 
 
