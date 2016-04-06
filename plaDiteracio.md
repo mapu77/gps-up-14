@@ -8,9 +8,22 @@
 
 > Resumir la informació de la iteració que més o menys ja està en el pla de desenvolupament del projecte: dates, esforç per rol, etc.
 
+En total, aquesta fase es triga 131 hores.
+Aquesta iteració és la que menys esforç necessita, només un 66 (comparada amb els 853 de la iteració de construction), si dividim aquest esforç per rol,
+el programador i analista software és el que més esforç necessita amb 43, seguit del gestor amb 13 i el dissenyador gràfic amb 10.
+Del total, un 60% dels casos d'ús ja estaran identificats, un 49% esbossats i un 11% refinats, cap analitzat o complet.
+
+
 ## 2. COBERTURA DE CASOS D'ÚS ##
 
 > Poseu l'estat en què penseu que es trobarà cada cas d'ús en acabar la iteració. Ha de ser coherent amb l'esforç assignat a la iteració
+
+Aproximadament un 60% dels casos d'ús estaran identificats, que són els 21 que hi ha a la taula del document de PLA DE FASES.docx.
+Del total, un 49% dels casos d'ús estaran esbossats i el 11 % restant ja estaran refinats. Els que ja estaran refinats són els 4 següents:
+- Afegir usuari.
+- Eliminar usuari.
+- Afegir valoració.
+- Reportar valoració.
 
 ## 3. ACTIVITATS ##
 
