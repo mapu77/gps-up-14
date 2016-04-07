@@ -4,15 +4,15 @@
 Es vol construir un sistema que permeti aproximar a les persones que viuen
 a la ciutat de Barcelona, als petits comerços de la ciutat.
 Els comerços tindran un espai on promocionar-se i poder augmentar el volum
-de la seva demanda, sigui donant informació, sigui oferint descomptes
-a les persones que viuen a la zona del comerç.
+de la seva demanda, sigui donant informació, sigui oferint un sistema de fidelització
+o un sistema de subscripció a les persones que viuen a la zona del comerç.
 
 ## 2. CONTEXT DE NEGOCI
 El sector de negoci de la nostra aplicació és comercial, ja que dóna suport
 als comerços de Barcelona per tenir un espai per anunciar-se i donar-se a conèixer.
 El software a desenvolupar és un producte de consum públic, ideat pel
 departament de Smart Cities de l’ajuntament de Barcelona. La vida prevista d'aquesta
-aplicació és més 4 anys fins que apareguin noves tecnologies que obliguin
+aplicació és de més 4 anys, fins que apareguin noves tecnologies que obliguin
 a actualitzar l'aplicació o canviï la necessitat d'aquesta.
 
 ## 3. OBJECTIUS DEL PRODUCTE 

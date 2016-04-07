@@ -15,10 +15,10 @@
 
 #### Paquet de gestió del comerç
 - Cas d'ús UC001: - *Afegir comerç*
-Fa referència a l'acció de donar-se d'alta (registrar-se) al sistema per part dels usuaris/comerciants.
+Fa referència a l'acció de donar-se d'alta (registrar-se) al sistema per part dels comerciants.
 
 - Cas d'ús UC002: - *Eliminar comerç*
-Fa referència a l'acció de donar-se de baixa del sistema per part dels usuaris/comerciants.
+Fa referència a l'acció de donar-se de baixa del sistema per part dels comerciants.
 
 - Cas d'ús UC003: - *Editar informació comerç*
 Fa referència a la modificació de la informació del comerç actor.
@@ -60,7 +60,7 @@ amb l'objectiu de rebre bonificacions en les transaccions habituals amb el comer
 El comerç confirma les sol·licituts pendents de fidelització del clients que consideri lleials al comerç.
 
 - Cas d'ús UC015: - *Subscripció*
-L'usuari/ciutadà es podra subscriure als comerços que desitgi per rebre informació i novetats d'aquests a través de
+L'usuari/ciutadà es podrà subscriure als comerços que desitgi per rebre informació i novetats d'aquests a través de
 l'aplicació i/o del e-mail.
 
 - Cas d'ús UC016: - *Cercar negoci per barri*
@@ -94,7 +94,7 @@ la valoració podrà ser reportada per a la seva futura eliminació.
 
 #### Cas d'ús UC001 - *Afegir comerç* ####
 
-El sistema mostra una llista amb els camps necessaris per donar d'alta un comerç (Nom, Direcció, Tipus, Horari, Telèfon) i altres d'optatius com una fotografia o la pàgina webb si en té.
+El sistema mostra una llista amb els camps necessaris per donar d'alta un comerç (Nom, Direcció, Tipus, Horari, Telèfon) i altres d'optatius com una fotografia o la pàgina web si en té.
 A continuació es mira a la base de dades si aquest comerç compleix els requisits, si els compleix s'afegeix al sistema i es demana un usuari encarregat de mantenir aquest perfil.
 Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
 
@@ -109,13 +109,15 @@ El sistema mostra el/s comerç/os que l'usuari és administrador.
 A continuació s'escull el comerç que es desitja editar.
 Es mostran tots els camps que estan omplerts i els que estan buits però es poden omplir perquè son optatius.
 Es permet modificar qualsevol d'aquests camps.
-Quan l'usuari adminsitrador desitja modificar els canvis es clica al botó 'guardar' i es guarden els canvis.
+Quan l'usuari adminsitrador desitja modificar els canvis es clica al botó 'guardar'.
+A continuació es mira a la base de dades si la informació compleix els requisits, si els compleix es modifica al sistema.
+Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
 Enviar avís als subscriptors.
 
 #### Cas d'ús UC004 - *Afegir oferta* ####
 
 El sistema mostra el/s comerç/os que l'usuari és administrador. 
-A continuació s'escull el comerç que es desitja afegir oferta.
+A continuació s'escull el comerç al que es desitja afegir oferta.
 Es mostren els camps necessaris per a afegir una oferta (article, tipus (2x1,descompte, etc.), data fi oferta).
 A continuació es mira a la base de dades si aquesta oferta compleix els requisits, si els compleix s'afegeix al sistema.
 Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
@@ -136,7 +138,9 @@ Es mostren totes les ofertes que hi ha actualment.
 A continuació s'escull l'oferta que es desitja editar.
 Es mostran tots els camps que estan omplerts i els que estan buits però es poden omplir perquè son optatius.
 Es permet modificar qualsevol d'aquests camps.
-Quan l'usuari adminsitrador desitja modificar els canvis es clica al botó 'guardar' i es guarden els canvis.
+Quan l'usuari adminsitrador desitja modificar els canvis es clica al botó 'guardar'.
+A continuació es mira a la base de dades si aquesta oferta compleix els requisits, si els compleix es modifica al sistema.
+Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
 Enviar avís als subscriptors.
 
 #### Cas d'ús UC007 - *Afegir producte o servei* ####
@@ -163,7 +167,9 @@ Es mostren tots els productes que hi ha actualment.
 A continuació s'escull el producte que es desitja editar.
 Es mostran tots els camps que estan omplerts i els que estan buits però es poden omplir perquè son optatius.
 Es permet modificar qualsevol d'aquests camps.
-Quan l'usuari adminsitrador desitja modificar els canvis es clica al botó 'guardar' i es guarden els canvis.
+Quan l'usuari adminsitrador desitja modificar els canvis es clica al botó 'guardar'.
+A continuació es mira a la base de dades si aquest producte compleix els requisits, si els compleix es modifica al sistema.
+Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
 Enviar avís als subscriptors.
 
 #### Cas d'ús UC010 - *Afegir usuari* ####
@@ -180,7 +186,9 @@ L'usuari clica el botó eliminar, es mostra un missatge de confirmació i si s'a
 
 Es mostran tots els camps que estan omplerts i els que estan buits però es poden omplir perquè son optatius.
 Es permet modificar qualsevol d'aquests camps.
-Quan l'usuari desitja modificar els canvis es clica al botó 'guardar' i es guarden els canvis.
+Quan l'usuari desitja modificar els canvis es clica al botó 'guardar'.
+A continuació es mira a la base de dades si aquest usuari compleix els requisits, si els compleix es modifica al sistema.
+Si no compleix els requisits, s'avisa de perquè no i es deixa modificar els camps introduits de forma errònia.
 
 #### Cas d'ús UC013 - *Sol·licitar fidelització* ####
 
@@ -203,15 +211,18 @@ El sistema guarda la petició i cada cop que hi hagi una novetat rebrà un avís
 #### Cas d'ús UC016 - *Cercar negoci per barri* ####
 
 L'usuari selecciona el barri d'una llista i es mostra una llista amb tots els negocis del sistema situats en aquest barri.
+Es pot afegir a aquesta cerca la cerca per categoria i filtraria per tots els camps escollits.
 
 #### Cas d'ús UC017 - *Cercar negoci per categoria* ####
 
 L'usuari selecciona la categoria d'una llista i es mostra una llista amb tots els negocis del sistema d'aquesta categoria.
+Es pot afegir a aquesta cerca qualsevol altre i filtraria per tots els camps escollits.
 
 #### Cas d'ús UC018 - *Cercar negoci per proximitat* ####
 
 L'usuari accepta la petició de saber la seva posició actual.
 El sistema mostrarà tots els comerços més pròxims i ordenats per la distància a la que estan de l'usuari.
+Es pot afegir a aquesta cerca la cerca per categoria i filtraria per tots els camps escollits.
 
 #### Cas d'ús UC019 - *Afegir valoració* ####
 
@@ -269,13 +280,13 @@ Es pot utilitzar en totes les plataformes on s'ha definit que haurà de funciona
 
 ### Mantenible - NFR004
 ##### Descripció
-Sistema que es pugui mantenir durant molts anys i poder-lo actualitzar còmodament.
+Sistema que es pugui mantenir com a mínim durant 4 anys i poder-lo actualitzar còmodament.
 ##### Justificació
 Ja que s'inverteix des de l'ajuntament en aquest sistema, es desitja que es pugui mantenir i actualitzar fàcilment i sense masses inversions.
 ##### Font
 Ajuntament
 ##### Criteris de  validació
-Segueix una sèrie de criteris que confirmin la independència entre classes (entre altres coses).
+Segueix una sèrie de criteris i/o patrons que confirmin la mantenibilitat.
 
 ### Segur - NFR005
 ##### Descripció
