@@ -227,3 +227,54 @@ Fer molt de testing de la nostra aplicacions en molts i diversos dispositius.
 ### Plans de mitigació ###
 
 Tenir comunicació amb els usuaris per dir que s’està treballant en solucionar-ho i treure una versió estable ràpidament.
+
+
+## RISC 009. Comerços no interesats ##
+
+### Descripció ###
+La aplicació no es utulitzada per els comerços.
+
+### Probabilitat ###
+
+Versemblant
+
+### Impacte ###
+
+Si la aplicacio no es utilitzada per els comerços, implicara que tots els ciutadans no la utilitcin.
+
+### Indicadors ###
+
+Poques tendes aderides a la aplicació
+ 
+### Estratègies de mitigació ###
+	
+Fer publicitat directament als começos.
+ 
+### Plans de mitigació ###
+
+Pla publicitari directament a als comerços per convencer de que utilitcin la aplicacio.
+
+## RISC 010. Error de sistemes ##
+
+### Descripció ###
+Caiguda dels servidors que deixaria el sistema completament inservible.
+
+### Probabilitat ###
+
+Poc probable
+
+### Impacte ###
+
+Si els servidors cauen es podría perdre tota la informació dels clients a mes de que la aplicació no funcionaría.
+
+### Indicadors ###
+
+Els servidors no funcionen.
+ 
+### Estratègies de mitigació ###
+	
+Utilitzar metodes per salvaguardar la informacio en els servidors.
+ 
+### Plans de mitigació ###
+
+Utilitzar duplicacions de servidors y metodes RAID per mantenir la informacio segura y la aplicacio funcionant

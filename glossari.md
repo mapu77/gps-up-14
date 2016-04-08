@@ -17,5 +17,7 @@
 Per cada terme:
 
 - Vida de barri: Entenem per vida de barri tot allò referent a allò que manté el barri actiu, comerços, festes, esdeveniments...
-- Terme 2: definició
-- ...
+- Fidelitzacio: Consens entre el comerç i el client, el cual li donará beneficis al client per comprar al comerç
+- Subscipcio: Client que proporciona les seves dades per rebre informacio de un comerç.
+- Comerç o Negoci: Petit comerç, que no pertanya a ninguna cadena comercial.
+- Usuari: Client dels comerços
