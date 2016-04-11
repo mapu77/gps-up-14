@@ -49,39 +49,39 @@ Aquesta disciplina presenta el 100 per cent de les hores totals de la fase d'Inc
 	#### Activitat A002 - *Evaluar l'àmbit del projecte.* 
 
 	-Descripció: Cal definir el radi d'acció del sistema.
-	-Precedència: A001 i A008.
+	-Precedència: A001.
 	-Temps estimat: 2 dies.
 
 
 	#### Activitat A003 - *Evaluar els riscos del projecte.*
 
-	-Precedència: A001 i A008.
+	-Precedència: A001.
 	-Temps estimat: 2 dies.
 
 
 	#### Activitat A004 - *Elaborar el cas de negoci.*
 	
-	-Precedència: A001, A002, A003, A008, A009, A010.
+	-Precedència: A002.
 	-Temps estimat: 2 dies.
 	
 
 	#### Activitat A005 - *Desenvolupar el Pla de desenvolupament software.* 
 
-	-Precedència: A002, A003 i A004.
+	-Precedència: A004.
 	-Temps estimat: 2 dies.
 	
 
 	#### Activitat A006 - *Monitorització i control.* 
 
 	-Descripció: El gestor de projecte controla periòdicament el projecte.
-	-Precedència: A002, A003 i A004.
+	-Precedència: A005.
 	-Temps estimat: 8 dies.
 
 
 	#### Activitat A007 - *Planificació de la iteració següent.* 
 
 	-Descripció: Obtenir el "feedback" de la iteració per a futurs projectes.
-	-Precedència: A008, A002. 
+	-Precedència: A015. 
 	-Temps estimat: 2 dies.
 
 
@@ -90,27 +90,27 @@ Aquesta disciplina presenta el 100 per cent de les hores totals de la fase d'Inc
 Aquesta disciplina presenta el 62,5 per cent de les hores totals de la fase d'Inception (131). Per tant estem parlant de 10 dies aproximadament.	
 
 
-	#### Activitat A018 - *Evaluar l'estat del negoci.*
+	#### Activitat A008 - *Evaluar l'estat del negoci.*
 
-	-Precedència: A013, A001, A002, A003, A004, A008, A009 i A010.
+	-Precedència: No té precedències.
 	-Temps estimat: 2 dies.
 
 
 	#### Activitat A009 - *Identificar processos de negoci.*
 
-	-Precedència: A013, A001, A002, A003, A004, A008, A009 i A010.
+	-Precedència: A008.
 	-Temps estimat: 2 dies.
 
 
 	#### Activitat A010 - *Dissenyar processos de negoci.*
 
-	-Precedència: A013, A001, A002, A003, A004, A008, A009 i A010.
+	-Precedència: A008.
 	-Temps estimat: 8 dies.
 
 
 	#### Activitat A011 - *Definir rols i responsabilitats.*
 
-	-Precedència: A002, A009, A010, A004 i A003.
+	-Precedència: A005.
 	-Temps estimat: 2 dies.
 
 
@@ -121,26 +121,26 @@ Aquesta disciplina presenta el 75 per cent de les hores totals de la fase d'Ince
 	
 	#### Activitat A012 - *Analitzar el problema.*
 
-	-Precedència: A002.
+	-Precedència: A001, A008.
 	-Temps estimat: 6 dies.
 
 
 	#### Activitat A013 - *Entendre les necessitats de les parts interessades.*
 
-	-Precedència: A009, A002 i A004.
+	-Precedència: A001, A008.
 	-Temps estimat: 6 dies.
 	
 
 	#### Activitat A014 - *Definir el sistema.* 
 
 	-Descripció: Consisteix en refinar la visió i orientar l'equip del projecte en el sistema.
-	-Precedència: A010, A002, A003, A004, A008.
+	-Precedència: A001, A008.
 	-Temps estimat: 6 dies.
 
 
 	#### Activitat A015 - *Gestionar els canvis en els requisits.*
 
-	-Precedència: A013, A001, A002, A003, A004, A008, A009 i A010.
+	-Precedència: A003, A009, A002, A019, A020.
 	-Temps estimat: 10 dies.
 
 
@@ -152,7 +152,7 @@ Aquesta disciplina presenta el 25 per cent de les hores totals de la fase d'Ince
 	#### Activitat A016 - *Realitzar síntesi arquitectònica.*
 
 	-Descripció: Consisteix en mostrar que hi ha una solució que satisfà els requisits arquitectònics del sistema. 
-	-Precedència: No té precedències.
+	-Precedència: A012, A013, A014.
 	-Temps d'espera: El temps estimat per aquesta activitat és un 30 per cent del temps d'aquesta disciplina. Per tant això implica 2 hores de treball.
 
 
@@ -164,7 +164,7 @@ Aquesta disciplina presenta el 12,5 per cent de les hores totals de la fase d'In
 	#### Activitat A017 - *Definir l'èxit dels requisits.*
 
 	-Descripció: És l'activitat encarregada de debatir amb els Stakeholders l'èxit dels requisits. 
-	-Precedència: No té precedències.
+	-Precedència: A002, A003, A009, A018.
 	-Temps estimat: 2 dies.
 
 
@@ -176,13 +176,13 @@ Aquesta disciplina presenta el 75 per cent de les hores totals de la fase d'Ince
 	#### Activitat A018 - *Preparar l'entorn de treball.*
 
 	-Descripció: Instal·lar i configurar totes les eines necessàries per a la fase d'Inception. 
-	-Precedència: No té precedències.
+	-Precedència: A001.
 	-Temps estimat: 2 dies.
 
 
 	#### Activitat A019 - *Proporcionar suport de l'entorn de treball*
 	-Descripció: Problemes amb les ID's, els repositoris, servidors, etc. 
-	-Precedència: A014.
+	-Precedència: A018.
 	-Temps estimat: 7 dies.
 
 
@@ -194,14 +194,14 @@ Aquesta disciplina presenta el 75 per cent de les hores totals de la fase d'Ince
 	#### Activitat A020 - *Pla de configuració del projecte i control de canvis.*
 
 	-Descripció: Consisteix en anar documentant el projecte i anotar tot tipus de canvis i evolucions sobre aquest. 
-	-Precedència: No té precedències.
+	-Precedència: A008.
 	-Temps estimat: 2 dies.
 
 
 	#### Activitat A021 - *Monitoritzar l'estat de la configuració.*
 	
 	-Descripció: Consisteix en comprovar que el sistema satisfaci tants els requisits físics com els funcionals. 
-	-Precedència: A014.
+	-Precedència: A020.
 	-Temps estimat: 7 dies.
 
 
