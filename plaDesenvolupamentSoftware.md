@@ -50,9 +50,28 @@ El Gestor representa 12.718,75 euros del projecte, els Programadors 20.691,96 eu
 |Eliminar valoració|Esbossat|Analitzat|Complet|Complet|
 |Reportar valoració|Refinat|Refinat|Complet|Complet|
 
-Document pujat al git (PLA DE FASES.docx) -> Marc i Carlos  
 
-> - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
+Les fases del projecte, com hem vist, es divideixen en la d'Inception, Elaboration, Construction i Transition.
+
+En la fase d'Inception els objectius principals són: definir la visió, determinar l'abast del projecte, crear el cas de negoci, definir l'arquitectura candidata i crear el pla de desenvolupament software.
+Pel que fa a les iteracions tenim una iteració. A més a més, l'esforç d'aquesta fase no juga el paper més important del projecte, ja que és la fase que requereix menys esforç de les quatre.
+Els documents a entregar són la visió, el cas de negoci, l'arquitectura general, el pla de desenvolupament software, etc.
+Dates de la fase: 1/03/2016 - 17/03/2016
+
+En la fase d'Elaboration els objectius principals els dividirem per iteració, ja que aquesta fase en té dues.
+En la primera iteració els objectius principals són: instal·lar i provar l'arquitectura, validar els requisits i implementar els casos d'ús prioritaris. Pel que fa a la segona iteració, els objectius principals són: mitigar riscs arquitectònics, completar la prova de l'arquitectura de la primera iteració i implementar casos d'ús addicionals.
+En aquesta fase l'esforç juga un paper força important respecte les demés fases, encara que no és la fase que s'hi dedica més esforç.
+Els documents a entregar són la implementació dels principals casos d'ús, els requisits del sistema validats així com els riscs d'aquest.
+Dates de la fase: 18/03/2016 - 5/05/2016
+
+En la fase de Construction els objectius principals els dividirem també per iteració, ja que aquesta fase en té tres.
+En la primera iteració els objectius principals són: descriure casos d'ús addicionals, dissenyar subsistemes addicionals, integrar el producte i validar l'estat i implementar casos d'ús i subsistemes. La segona iteració i la tercera els objectius són els mateixos (es una fase bastant costosa a nivell d'esforç, la que més), excepte la tercera iteració que a més a més té com a objectiu planificar la versió beta i suport a l'usuari.
+Els documents a entregar són el programa (codi, documentació per a usuaris, etc.).
+Dates de la fase: 6/05/2016 - 25/07/2016
+
+En la fase de Transition els objectius principals són: desplegar beta en client, obtenir i processar feedback, finalitzar el suport al client i l'entrega al clent. Aquesta fase té una iteració. L'esforç d'aquesta fase un altre cop no és la fase que més esforç necessita. 
+Els documents a entregar són el programa ja funcionant correctament en funció de les necessitats del client, havent revisar el feedback rebut. 
+Dates de la fase: 26-07-2016 - 11/08/2016
 
 
 
