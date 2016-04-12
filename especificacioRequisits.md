@@ -252,3 +252,13 @@ Aquest sistema tindrà informació privada, per tant, s'ha de cuidar que aqueste
 Ajuntament i Usuaris
 ##### Criteris de validació
 Contractar a experts en seguretat informàtica que provin la seguretat.
+
+## MOCK UP 
+
+![Pantalla mòbil comerç](img/mobile-bussiness_front.png)
+
+![Pantalla mòbil ofertes](img/mobile-main_front.png)
+
+![Pantalla ordinador comerç](img/desktop-bussiness_front.png)
+
+![Pantalla ordinador inici](img/desktop-main_front.png)
