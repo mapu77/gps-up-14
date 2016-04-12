@@ -1,4 +1,4 @@
-# BCN-Commerce - VISIÓ #
+﻿# BCN-Commerce - VISIÓ #
 ## 1. INTRODUCCIÓ ##
 En aquest document presentarem el problema que el nostre problema pretén afrontar, tot mostrant les possibles parts interessades i les seves responsabilitats en el sistema. Presentem també una descripció del producte amb un esquema de la seva perspectiva, les seves funcionalitats a priori i els supòsits de bon funcionament. Finalment esmentem la dependència del nostre sistema sobre els altres sistemes i els requisits no funcionals que pretenem que el nostre sistema també satisfaci.
 
@@ -50,7 +50,7 @@ Tots els comerços tindran l'opció d'anunciar les ofertes i promocions especial
 El comerciant podrà exposar el catàleg dels seus productes o serveis a l'app de tal forma que el client pugui veure de què es tracta aquell comerç.
 
 4. *Servei fidelització*
-Els usuaris podran fidelitzar-se a una botiga a canvi de rebre notificacions d'aquesta i així tenir algun descompte en alguna promoció.
+Els usuaris podran fidelitzar-se a una botiga a canvi de tenir algun descompte en alguna promoció.
 
 5. *Categories*
 L'app comptarà amb un filtratge per categories (sabates, roba, electrònica...) per tal de facilitar la cerca als clients.
