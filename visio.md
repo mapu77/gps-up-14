@@ -1,4 +1,4 @@
-﻿# BCN-Commerce - VISIÓ #
+# BCN-Commerce - VISIÓ #
 ## 1. INTRODUCCIÓ ##
 En aquest document presentarem el problema que el nostre problema pretén afrontar, tot mostrant les possibles parts interessades i les seves responsabilitats en el sistema. Presentem també una descripció del producte amb un esquema de la seva perspectiva, les seves funcionalitats a priori i els supòsits de bon funcionament. Finalment esmentem la dependència del nostre sistema sobre els altres sistemes i els requisits no funcionals que pretenem que el nostre sistema també satisfaci.
 

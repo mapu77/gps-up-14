@@ -24,32 +24,36 @@ El cost total del projecte són 230.683,38 euros. Aquest cost el subvidim en els
 El Gestor representa 12.718,75 euros del projecte, els Programadors 20.691,96 euros i els Dissenyadors 15.131,25 euros. Això és un subtotal net	d'uns 126.000 euros, que són uns 178.000 euros bruts (parlant de xifres rodones). Tenint en compte les contingències i les despeses estructurals, ens queda un cost total de 30.683,38 euros.
 
 ## 4. PLA DE FASES ##
-
-> - a) Taula amb l'estat dels casos d'ús a cada fase
 || INCEPTION |ELABORATION|CONSTRUCTION|TRANSITION|
-|--------|--------|--------|--------|
-|Afegir comerç|Esbossat|Analitzat|Complet|Complet|
-|Eliminar comerç|Esbossat|Analitzat|Complet|Complet|
+|--------|--------|--------|--------|--------|
+|Afegir comerç|Refinat|Analitzat|Complet|Complet|
+|Eliminar comerç|Esbossat|Esbossat|Complet|Complet|
 |Editar informació comerç|Esbossat|Analitzat|Complet|Complet|
 |Afegir oferta|Esbossat|Analitzat|Complet|Complet|
-|Eliminar oferta|Esbossat|Refinat|Complet|Complet|
+|Eliminar oferta|Esbossat|Esbosat|Complet|Complet|
 |Editar informació oferta|Esbossat|Analitzat|Complet|Complet|
-|Afegir producte o servei|Esbossat|Analitzat|Complet|Complet|
-|Eliminar producte o servei|Esbossat|Analitzat|Complet|Complet|
-|Editar producte o servei|
+|Afegir producte o servei|Refinat|Analitzat|Complet|Complet|
+|Eliminar producte o servei|Esbossat|Esbossat|Complet|Complet|
+|Editar producte o servei|Esbossat|Analitzat|Complet|Complet|
 |Alta usuari|Refinat|Analitzat|Complet|Complet|
-|Baixa usuari|Refinat|Analitzat|Complet|Complet|
-|Editar informació usuari|Esbossat|Analitzat|Complet|Complet|
-|Sol·licitar fidelització|Esbossat|Refinat|Complet|Complet|
-|Confirmar fidelització|Esbossat|Refinat|Complet|Complet|
-|Subscripció|Esbossat|Refinat|Complet|Complet|
-|Cercar negoci per barri|Esbossat|Refinat|Complet|Complet|
-|Cercar negoci per categoria|Esbossat|Refinat|Complet|Complet|
-|Cercar negoci per proximitat|Esbossat|Analitzat|Complet|Complet|
-|Afegir valoració|Refinat|Refinat|Complet|Complet|
-|Eliminar valoració|Esbossat|Analitzat|Complet|Complet|
-|Reportar valoració|Refinat|Refinat|Complet|Complet|
+|Baixa usuari|Esbossat|Esbossat|Complet|Complet|
+|Editar informació usuari|-|Esbossat|Complet|Complet|
+|Sol·licitar fidelització|Identificat|Refinat|Complet|Complet|
+|Confirmar fidelització|-|-|Complet|Complet|
+|Subscripció|Identificat|Refinat|Complet|Complet|
+|Cercar negoci per barri|-|Esbossat|Complet|Complet|
+|Cercar negoci per categoria|Identificat|Esbossat|Complet|Complet|
+|Cercar negoci per proximitat|-|-|Complet|Complet|
+|Afegir valoració|-|Esbossat|Complet|Complet|
+|Eliminar valoració|-|-|Complet|Complet|
+|Reportar valoració|-|-|Complet|Complet|
 
-Document pujat al git (PLA DE FASES.docx) -> Marc i Carlos  
+|  | INCEPTION | ELABORATION | CONSTRUCTION | TRANSITION |
+|--------|--------|--------|--------|--------|
+| Identificat | ~60% | ~80% | 100% | 100% |
+| Esbossat | 49% | 80% | 100% | 100% |
+| Refinat | 11% | 45% | 100% | 100% |
+| Analitzat | 0% | 35% | 100% | 100% |
+| Complet | 0% | 0% | 100% | 100% |
 
 > - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
