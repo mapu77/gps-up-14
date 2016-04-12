@@ -1,4 +1,4 @@
-# Bcn-eCommerce - PLA DE DESENVOLUPAMENT DE SOFTWARE #
+#BCN-Commerce - PLA DE DESENVOLUPAMENT DE SOFTWARE #
 
 ## 1. ORGANITZACIÓ I EQUIP ##
 Som el departament Smartcities de l'Ajuntament de Barcelona.
@@ -17,12 +17,26 @@ Per últim tenim l'ECF, que són els factors d'entorn, que són factors relacion
 Hem consultat les taules per saber els pesos de cada cosa, així com tot el necessari per fer l'estudi i el càlcul de l'UCP.
 
 ### 2.2. Estimació de cost ###
-
-
 El cost total del projecte són 230.683,38 euros. Aquest cost el subvidim en els costos del Gestor de Projectes, dels quatre Programadors i Analistes Software i per últim, dels dos Dissenyador Gràfics. Hem fet una estimació de les hores que dedicarà cadascú d'ells en les fases del projecte tal i com es pot veure a l'Excel. 
 El Gestor representa 12.718,75 euros del projecte, els Programadors 20.691,96 euros i els Dissenyadors 15.131,25 euros. Això és un subtotal net	d'uns 126.000 euros, que són uns 178.000 euros bruts (parlant de xifres rodones). Tenint en compte les contingències i les despeses estructurals, ens queda un cost total de 30.683,38 euros.
 
+![UUCW](img/UUCW.png)
+
 ## 4. PLA DE FASES ##
+Seguint els percentatges típics de la taula següent, hem adaptat després als nostres casos d'ús.
+
+### 4.1 Taula percentatges típics
+
+|  | INCEPTION | ELABORATION | CONSTRUCTION | TRANSITION |
+|--------|--------|--------|--------|--------|
+| Identificat | ~60% | ~80% | 100% | 100% |
+| Esbossat | 50% | 80% | 100% | 100% |
+| Refinat | 10% | 45% | 100% | 100% |
+| Analitzat | 0% | 35% | 100% | 100% |
+| Complet | 0% | 0% | 100% | 100% |
+
+### 4.2 Taula pla de fases
+
 || INCEPTION |ELABORATION|CONSTRUCTION|TRANSITION|
 |--------|--------|--------|--------|--------|
 |Afegir comerç|Refinat|Analitzat|Complet|Complet|
@@ -46,14 +60,6 @@ El Gestor representa 12.718,75 euros del projecte, els Programadors 20.691,96 eu
 |Afegir valoració|-|Esbossat|Complet|Complet|
 |Eliminar valoració|-|-|Complet|Complet|
 |Reportar valoració|-|-|Complet|Complet|
-
-|  | INCEPTION | ELABORATION | CONSTRUCTION | TRANSITION |
-|--------|--------|--------|--------|--------|
-| Identificat | ~60% | ~80% | 100% | 100% |
-| Esbossat | 49% | 80% | 100% | 100% |
-| Refinat | 11% | 45% | 100% | 100% |
-| Analitzat | 0% | 35% | 100% | 100% |
-| Complet | 0% | 0% | 100% | 100% |
 
 Les fases del projecte, com hem vist, es divideixen en la d'Inception, Elaboration, Construction i Transition.
 

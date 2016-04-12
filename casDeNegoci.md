@@ -1,4 +1,4 @@
-# BCN-Commerce - CAS DE NEGOCI #
+#BCN-Commerce - CAS DE NEGOCI #
 
 ## 1. DESCRIPCIÓ DEL PRODUCTE
 Es vol construir un sistema que permeti aproximar a les persones que viuen a la ciutat de Barcelona, als petits comerços de la ciutat.

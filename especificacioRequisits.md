@@ -1,6 +1,5 @@
 #BCN-Commerce - ESPECIFICACIÓ DE REQUISITS DEL SOFTWARE #
 ## 1. ESPECIFICACIÓ FUNCIONAL ##
-
 ### 1.1. Diagrama de casos d'ús
 ![Diagrama de casos d'ús](img/DiagramaCasosUs.png "Diagrama de casos d'ús")
 #### Paquet de gestió del comerç
@@ -253,7 +252,7 @@ Ajuntament i Usuaris
 ##### Criteris de validació
 Contractar a experts en seguretat informàtica que provin la seguretat.
 
-## MOCK UP 
+## 3. MOCK UP 
 
 ![Pantalla mòbil comerç](img/mobile-bussiness_front.png)
 
