@@ -36,7 +36,7 @@ El Gestor representa 12.718,75 euros del projecte, els Programadors 20.691,96 eu
 |Editar informació oferta|Esbossat|Analitzat|Complet|Complet|
 |Afegir producte o servei|Esbossat|Analitzat|Complet|Complet|
 |Eliminar producte o servei|Esbossat|Analitzat|Complet|Complet|
-|Editar producte o servei|
+|Editar producte o servei|Esbossat|Analitzt|Complet|Complet|
 |Alta usuari|Refinat|Analitzat|Complet|Complet|
 |Baixa usuari|Refinat|Analitzat|Complet|Complet|
 |Editar informació usuari|Esbossat|Analitzat|Complet|Complet|
@@ -53,3 +53,6 @@ El Gestor representa 12.718,75 euros del projecte, els Programadors 20.691,96 eu
 Document pujat al git (PLA DE FASES.docx) -> Marc i Carlos  
 
 > - b) Informació més rellevant de cada fase. Per cada fase, dir: objectius, entregables més importants, quantes iteracions a cada fase, dates d'inici i finalització, esforç de cada rol a cada fase, etc.
+
+
+
