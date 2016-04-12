@@ -1,6 +1,4 @@
-﻿> Nota preliminar: tots els comentaris de la plantilla són informatius i han de desaparéixer en la versió entregable
-
-# BCN-eCommerce - PLA D'ITERACIÓ *Inception* #
+#BCN-Commerce - PLA D'ITERACIÓ *Inception* #
 
 > El propòsit del document d'iteració és descriure en detall la planificació de la següent iteració. Tindrem, doncs, un document per cada iteració. El document es fa tot just abans d'iniciar la iteració
 
@@ -199,7 +197,6 @@ Aquesta disciplina presenta el 75 per cent de les hores totals de la fase d'Ince
 
 
 	#### Activitat A021 - *Monitoritzar l'estat de la configuració.*
-	
 	-Descripció: Consisteix en comprovar que el sistema satisfaci tants els requisits físics com els funcionals. 
 	-Precedència: A020.
 	-Temps estimat: 7 dies.
@@ -207,5 +204,13 @@ Aquesta disciplina presenta el 75 per cent de les hores totals de la fase d'Ince
 
 
 ## 4. DIAGRAMA DE GANTT ##
+Primer incloem el diagrama de Pert en que es mostren les activitats i les seves precedències.
 
-> Feu el diagrama de Gantt amb tota la informació necessària (dates, personal, fites, precedències, ...). Feu també el diagrama de PERT per discernir el temps mínim i màxim d'execució
+Cada node consta d'una data d'inici mínima (extrem superior esquerre), una data de finalització mínima (extrem superio dret). Després, consta també del pes de l'activitat (en nombre de dies) (centrat superior). Finalment, la data màxima d'inici i la data màxima de finalització són els extrems inferiors esquerra i dret, respectivament.
+
+En vermell s'indica el camí crític de la fase.
+
+![Diagrama de Pert](img/DiagramaPert.png)
+
+A continuació, mostrem el diagrama de Gantt (adjunt també en el full de càlcul).
+![Diagrama de Gantt](img/DiagramaGantt.png)
