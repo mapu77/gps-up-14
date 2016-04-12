@@ -18,7 +18,6 @@ Hem consultat les taules per saber els pesos de cada cosa, així com tot el nece
 
 ### 2.2. Estimació de cost ###
 
-> Calculeu el cost de personal i la resta de coses. Useu un excel o altra eina per fer els càlculs. Copieu aquí les taules (però entregueu també l'excel!). 
 
 El cost total del projecte són 230.683,38 euros. Aquest cost el subvidim en els costos del Gestor de Projectes, dels quatre Programadors i Analistes Software i per últim, dels dos Dissenyador Gràfics. Hem fet una estimació de les hores que dedicarà cadascú d'ells en les fases del projecte tal i com es pot veure a l'Excel. 
 El Gestor representa 12.718,75 euros del projecte, els Programadors 20.691,96 euros i els Dissenyadors 15.131,25 euros. Això és un subtotal net	d'uns 126.000 euros, que són uns 178.000 euros bruts (parlant de xifres rodones). Tenint en compte les contingències i les despeses estructurals, ens queda un cost total de 30.683,38 euros.
