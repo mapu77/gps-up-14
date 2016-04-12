@@ -9,10 +9,18 @@ El rol del gestor és planificar el projecte i assignar les tasques a cada membr
 ### 2.1. Estimació d'esforç ###
 Per a fer aquests càlculs ens hem ajudat de l'eina Excel. Per calcular les hores del projecte partim de l'UCP i del PF. S'ha de dir que és una estimació, és a dir, no és un temps definitiu. El PF és el factor d'esforç per punt de cas d'ús. Com bé es veu a l'Excel, el FP és 20 hores/persona.
 Ara bé, pel càlcul de l'UCP, es té en compte l'UUCW, l'UAW, el TCF i per últim, l'ECF. El nostre UCP és de 65,5875.
+
 L'UUCW fa refèrencia als casos d'ús del sistema i al pes d'aquests, així com els esdeveniments externs. El nostre UUCW és de 115.
-L'UAW fa referència als actors, qualsevol entitat externa que interaccioni amb ells, tenint en compte el seu pes un altre cop. El nostre UAW és de 10.
+![UUCW](img/UUCW.png)
+
+L'UAW fa referència als actors, qualsevol entitat externa que interaccioni amb ells, tenint en compte el seu pes un altre cop.El nostre UAW és de 10.
+![UAW](img/UAW.png)
+
 El TCF fa referència a la complexitat tècnica, on cal fixar el pes i la prioritat. És un percentatge, que es calcula com la suma dels pesos per la prioritat d'aquests dividit entre 100. A tot això se li suma un 0,6. El nostre TCF és de 0,99.
+![TCF](img/TCF.png)
+
 Per últim tenim l'ECF, que són els factors d'entorn, que són factors relacionals al projecte i context, però que poden influir. Es calcula com la suma dels pesos dels factors per la seva avaluació, multiplicat per un factor de -0,03 i tot sumat a 1,4. El nostre ECF és de 0,53.
+![ECF](img/ECF.png)
 
 Hem consultat les taules per saber els pesos de cada cosa, així com tot el necessari per fer l'estudi i el càlcul de l'UCP.
 
@@ -20,7 +28,7 @@ Hem consultat les taules per saber els pesos de cada cosa, així com tot el nece
 El cost total del projecte són 230.683,38 euros. Aquest cost el subvidim en els costos del Gestor de Projectes, dels quatre Programadors i Analistes Software i per últim, dels dos Dissenyador Gràfics. Hem fet una estimació de les hores que dedicarà cadascú d'ells en les fases del projecte tal i com es pot veure a l'Excel. 
 El Gestor representa 12.718,75 euros del projecte, els Programadors 20.691,96 euros i els Dissenyadors 15.131,25 euros. Això és un subtotal net	d'uns 126.000 euros, que són uns 178.000 euros bruts (parlant de xifres rodones). Tenint en compte les contingències i les despeses estructurals, ens queda un cost total de 30.683,38 euros.
 
-![UUCW](img/UUCW.png)
+![](img/Costos.png)
 
 ## 4. PLA DE FASES ##
 Seguint els percentatges típics de la taula següent, hem adaptat després als nostres casos d'ús.
